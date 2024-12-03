@@ -1,0 +1,1304 @@
+Company,TypeName,Inches,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,Price,Storage Type
+Apple,Ultrabook,13.3,WQXGA,Intel Core i5 2,8,128,Intel Iris Plus Graphics 640,macOS,71378.6832,SSD
+Apple,Ultrabook,13.3,WQXGA,Intel Core i5 1,8,128 ,Intel HD Graphics 6000,macOS,47895.5232,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,No OS,30636.0,SSD
+Apple,Ultrabook,15.4,Full HD,Intel Core i7 2,16,512,AMD Radeon Pro 455,macOS,135195.33599999998,SSD
+Apple,Ultrabook,13.3,HD Ready,Intel Core i5 3,8,256,Intel Iris Plus Graphics 650,macOS,96095.808,SSD
+Acer,Notebook,15.6,Full HD,AMD A9-Series 9420 3GHz,4,500 ,AMD Radeon R5,Windows 10,21312.0,Other
+Apple,Ultrabook,15.4,QHD,Intel Core i7 2,16,256 ,Intel Iris Pro Graphics,Mac OS X,114017.6016,Other
+Apple,Ultrabook,13.3,Full HD,Intel Core i5 1,8,256 ,Intel HD Graphics 6000,macOS,61735.536,Other
+Asus,Ultrabook,14.0,Full HD,Intel Core i7 8550U 1,16,512,Nvidia GeForce MX150,Windows 10,79653.59999999999,SSD
+Acer,Ultrabook,14.0,QHD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,41025.6,SSD
+HP,Notebook,15.6,QHD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,No OS,20986.992,Other
+HP,Notebook,15.6,QHD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,No OS,18381.0672,Other
+Apple,Ultrabook,15.4,QHD,Intel Core i7 2,16,256,AMD Radeon Pro 555,macOS,130001.6016,SSD
+Dell,Notebook,15.6,HD Ready,Intel Core i3 6006U 2GHz,4,256,AMD Radeon R5 M430,Windows 10,26581.392,SSD
+Apple,Ultrabook,12.0,Full HD,Intel Core M m3 1,8,256,Intel HD Graphics 615,macOS,67260.672,SSD
+Apple,Ultrabook,13.3,Full HD,Intel Core i5 2,8,256,Intel Iris Plus Graphics 640,macOS,80908.344,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,AMD Radeon R5 M430,Windows 10,39693.6,SSD
+Apple,Ultrabook,15.4,QHD,Intel Core i7 2,16,512,AMD Radeon Pro 560,macOS,152274.24,SSD
+Lenovo,Notebook,15.6,HD,Intel Core i3 7100U 2,8,1 ,Nvidia GeForce 940MX,No OS,26586.72,Other
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 8250U 1,8,128,Intel UHD Graphics 620,Windows 10,52161.12,SSD
+Asus,Netbook,11.6,Full HD,Intel Atom x5,2,32 ,Intel HD Graphics 400,Windows 10,10224.432,Other
+Lenovo,Gaming,15.6,HD Ready,Intel Core i5 7300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,53226.72,SSD
+HP,Notebook,15.6,HD Ready,AMD E-Series E2-9000e 1,4,500 ,AMD Radeon R2,No OS,13746.24,Other
+Dell,2 in 1 Convertible,13.3,QHD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,43636.32,SSD
+HP,Ultrabook,15.6,QHD,Intel Core i7 8550U 1,8,256,Intel HD Graphics 620,Windows 10,35111.52,SSD
+Dell,Notebook,15.6,QHD,Intel Core i3 6006U 2GHz,4,1 ,Intel HD Graphics 520,Windows 10,22305.1392,Other
+Apple,Ultrabook,13.3,QHD,Intel Core i5 1,8,128 ,Intel HD Graphics 6000,Mac OS X,58554.72,Other
+Dell,Notebook,15.6,QHD,Intel Core i5 8250U 1,8,256,AMD Radeon 530,Windows 10,42624.0,SSD
+Dell,Ultrabook,15.6,QHD,Intel Core i7 8650U 1,8,256 +  256,Intel UHD Graphics 620,Windows 10,69157.44,SSD
+HP,Notebook,17.3,QHD,Intel Core i5 8250U 1,8,1 ,Nvidia GeForce 930MX,Windows 10,47738.88,Other
+Chuwi,Notebook,15.6,QHD,Intel Atom x5,4,64 ,Intel HD Graphics,Windows 10,13053.0672,Other
+Asus,Notebook,14.0,HD Ready,AMD E-Series E2-6110 1,2,32 ,AMD Radeon R2,Windows 10,10602.72,Other
+HP,Notebook,17.3,Full HD,AMD A6-Series 9220 2,4,500 ,AMD Radeon 530,Windows 10,23389.92,Other
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 8550U 1,16,512,Intel UHD Graphics 620,Windows 10,99580.32,SSD
+Apple,Ultrabook,13.3,Full HD,Intel Core i5 1,8,256 ,Intel HD Graphics 6000,Mac OS X,53173.44,Other
+Lenovo,Notebook,14.0,QHD,Intel Celeron Dual Core N3350 1,4,64 ,Intel HD Graphics 500,Windows 10,13266.72,Other
+Acer,Notebook,15.6,Full HD,Intel Core i3 7130U 2,4,1 ,Intel HD Graphics 620,Linux,19553.76,Other
+Dell,Notebook,17.3,QHD,Intel Core i5 8250U 1,8,128 +  1 ,AMD Radeon 530,Windows 10,52161.12,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Intel HD Graphics 620,Windows 10,26037.4032,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,256,Nvidia GeForce 930MX ,Windows 10,46833.12,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Intel HD Graphics 620,Linux,20725.92,Other
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,79866.72,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Nvidia GeForce 940MX,Linux,27864.9072,Other
+Acer,Notebook,15.6,Full HD,Intel Core i5 8250U 1,4,256,Intel UHD Graphics 620,Windows 10,36336.96,SSD
+Dell,2 in 1 Convertible,17.3,Full HD,Intel Core i5 8250U 1,12,1 ,Nvidia GeForce 150MX,Windows 10,53226.72,Other
+Apple,Ultrabook,13.3,Full HD,Intel Core i5 2,8,256,Intel Iris Graphics 540,macOS,75604.31999999999,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,No OS,19660.32,SSD
+Asus,Gaming,17.3,Full HD,AMD Ryzen 1700 3GHz,8,256 +  1 ,AMD Radeon RX 580,Windows 10,69210.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,256,AMD Radeon R5 M430,Windows 10,34045.92,SSD
+Asus,Notebook,17.3,Full HD,Intel Pentium Quad Core N4200 1,4,1 ,Nvidia GeForce 920MX,Windows 10,24828.48,Other
+Lenovo,2 in 1 Convertible,10.1,Full HD,Intel Atom x5,4,64 ,Intel HD Graphics 400,Android,16996.32,Other
+Acer,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256,Nvidia GeForce MX150,Windows 10,44808.48,SSD
+HP,Notebook,15.6,Full HD,AMD A6-Series 9220 2,4,256,AMD Radeon R4 Graphics,Windows 10,21231.5472,SSD
+HP,Notebook,13.3,Full HD,Intel Core i7 8550U 1,8,512,Intel UHD Graphics 620,Windows 10,58767.84,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,1 ,Intel HD Graphics 620,Windows 10,20459.52,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256,AMD Radeon 520,Windows 10,40908.384,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,Windows 10,23389.92,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,31232.203200000004,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  2 ,Nvidia GeForce GTX 1070,Windows 10,130482.72,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,256,Intel HD Graphics 520,Linux,22111.2,SSD
+Dell,Notebook,17.3,Full HD,Intel Core i7 8550U 1,16,256 +  2 ,AMD Radeon 530,Windows 10,69210.72,SSD
+Dell,Ultrabook,14.0,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,46833.12,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i3 7130U 2,8,256,Intel HD Graphics 620,No OS,31914.72,SSD
+Asus,Notebook,14.0,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,50136.48,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,36763.2,SSD
+Asus,Ultrabook,15.6,Full HD,Intel Core i7 7700HQ 2,16,512,Nvidia GeForce GTX 1050 Ti,Windows 10,105654.24,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,AMD Radeon 520,Windows 10,23373.4032,Other
+HP,Notebook,14.0,Full HD,Intel Celeron Dual Core N3060 1,4,32,Intel HD Graphics 400,Windows 10,12201.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Intel HD Graphics 620,Windows 10,29250.72,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,12,1 ,Nvidia GeForce GTX 1050 Ti,Linux,50562.72,Other
+Microsoft,Ultrabook,13.5,Full HD,Intel Core i5 7200U 2,4,128,Intel HD Graphics 620,Windows 10 S,58021.92,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 8550U 1,8,256,AMD Radeon 530,Windows 10,50882.4,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256,AMD Radeon 530,Windows 10,46353.6,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i5 7300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,58341.6,SSD
+Acer,Notebook,14.0,Full HD,Intel Core i3 6006U 2GHz,8,1 ,Intel HD Graphics 520,Windows 10,20725.92,Other
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1050,Windows 10,50562.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,2 ,Intel HD Graphics 620,No OS,27652.32,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,128 +  1 ,Intel UHD Graphics 620,Windows 10,45554.4,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i3 7130U 2,4,1 ,Nvidia GeForce MX130,Windows 10,28238.4,Other
+HP,Notebook,17.3,Full HD,Intel Core i5 8250U 1,8,128 +  1 ,Nvidia GeForce 930MX,Windows 10,52054.56,SSD
+Dell,Ultrabook,15.6,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,58403.4048,SSD
+Apple,Ultrabook,12.0,Full HD,Intel Core i5 1,8,512,Intel HD Graphics 615,macOS,80452.8,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 8250U 1,8,256,Intel HD Graphics 620,Windows 10,45820.8,SSD
+Lenovo,Notebook,15.6,Full HD,AMD A6-Series 9220 2,4,128,AMD R4 Graphics,Windows 10,21258.72,SSD
+Acer,Notebook,15.6,Full HD,AMD A9-Series 9420 3GHz,4,1 ,AMD Radeon R5,Windows 10,21045.6,Other
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,71874.72,SSD
+HP,Ultrabook,15.6,Full HD,Intel Core i7 8550U 1,8,256,Nvidia GeForce GTX 940MX,Windows 10,37242.72,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,31914.1872,SSD
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,77202.72,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,87858.72,SSD
+Asus,Gaming,15.6,Full HD,AMD FX 9830P 3GHz,8,1 ,AMD Radeon RX 560,Windows 10,37242.72,Other
+Acer,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,1 ,Nvidia GeForce MX150,Windows 10,36709.92,Other
+HP,Notebook,13.3,Full HD,Intel Core i7 8550U 1,16,512,Intel UHD Graphics 620,Windows 10,63776.16,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,256,Nvidia GeForce GTX 1060,Windows 10,63669.6,SSD
+Asus,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,55890.72,SSD
+Acer,2 in 1 Convertible,13.3,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,45128.16,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,AMD Radeon R5 M430,Linux,31962.672,Other
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,256,AMD Radeon R5 M430,Linux,25840.8,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i3 7100U 2,6,256,Nvidia GeForce 920M,Windows 10,30742.56,SSD
+HP,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,12,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,66546.72,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,AMD Radeon 530,Windows 10,38308.32,SSD
+HP,Notebook,15.6,Full HD,AMD E-Series E2-9000e 1,4,500 ,AMD Radeon R2,Windows 10,18594.72,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,1 ,AMD Radeon 520,Linux,34472.16,Other
+HP,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,8,256,Nvidia GeForce MX150,Windows 10,59620.32,SSD
+Microsoft,Ultrabook,13.5,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10 S,71395.2,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 7200U 2,6,256,Nvidia GeForce 940MX,Windows 10,35111.52,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Intel HD Graphics 520,Windows 10,22105.872,Other
+Asus,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,8,256,Nvidia GeForce 940MX,Windows 10,63563.04,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,69210.72,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,78854.4,SSD
+Asus,Ultrabook,15.6,Full HD,Intel Core i7 8550U 1,16,256 +  1 ,Nvidia GeForce MX150,Windows 10,67239.36,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 7560U 2,8,256,Intel Iris Plus Graphics 640,Windows 10,73473.12,SSD
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,74538.72,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 8250U 1,4,500 ,Intel UHD Graphics 620,Windows 10,38468.16,Other
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,86793.12,SSD
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,74538.1872,SSD
+HP,Notebook,14.0,Full HD,Intel Core i7 8550U 1,8,512,Intel UHD Graphics 620,Windows 10,57755.52,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256 +  1 ,Nvidia GeForce 940MX,Windows 10,60223.98239999999,SSD
+Asus,Notebook,17.3,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Nvidia GeForce 920MX,Windows 10,30049.92,Other
+Asus,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256,Nvidia GeForce 940MX,Windows 10,59567.04,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i3 7100U 2,6,1 ,Intel HD Graphics 620,Windows 10,25521.12,Other
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  2 ,Nvidia GeForce GTX 1070,Windows 10,119427.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Nvidia GeForce 940MX,No OS,33513.119999999995,SSD
+HP,Notebook,17.3,Full HD,Intel Core i7 8550U 1,16,512,Nvidia GeForce 930MX ,Windows 10,67718.88,SSD
+Acer,Notebook,15.6,Full HD,AMD A9-Series 9420 3GHz,4,256,AMD Radeon R5,Windows 10,24029.28,SSD
+HP,Notebook,15.6,Full HD,Intel Celeron Dual Core N3060 1,4,500 ,Intel HD Graphics 400,No OS,13799.52,Other
+HP,Notebook,14.0,Full HD,Intel Core i5 8250U 1,8,1 ,Intel UHD Graphics 620,Windows 10,43263.36,Other
+Asus,Notebook,14.0,Full HD,AMD E-Series 6110 1,4,64,AMD Radeon R2,Windows 10 S,14811.3072,SSD
+Dell,Notebook,17.3,Full HD,Intel Core i7 8550U 1,16,256 +  2 ,AMD Radeon 530,Windows 10,74378.87999999999,SSD
+HP,Notebook,17.3,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,49443.84,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,AMD Radeon R7 M445,Windows 10,34045.3872,Other
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,AMD Radeon R5 M430,Windows 10,23922.72,Other
+Acer,Ultrabook,14.0,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,47099.52,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i3 7130U 2,4,256,Nvidia GeForce MX130,Windows 10,30476.16,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,Intel HD Graphics 620,Windows 10,31861.44,Other
+HP,Notebook,14.0,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,52640.64,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,4,1 ,Intel HD Graphics 500,No OS,13445.7408,Other
+Asus,Gaming,17.3,Full HD,Intel Core i5 7300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,49976.64,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Nvidia GeForce 920MX,No OS,26586.72,Other
+HP,Notebook,13.3,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,37242.72,SSD
+Acer,Notebook,17.3,Full HD,Intel Core i3 7130U 2,4,1 ,Nvidia GeForce MX130,Windows 10,34898.4,Other
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 8250U 1,8,256,AMD Radeon RX 550,Windows 10,59461.5456,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia GeForce GTX 1050M,No OS,46300.32,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,32074.56,Other
+HP,Notebook,15.6,Full HD,AMD A6-Series 9220 2,4,256,AMD Radeon R4 Graphics,Windows 10,19660.32,SSD
+Asus,Ultrabook,14.0,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,58554.72,SSD
+HP,Ultrabook,12.5,Full HD,Intel Core M 6Y75 1,8,512,Intel HD Graphics 515,Windows 10,107305.92,SSD
+Asus,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,4,1 ,Intel HD Graphics 500,Windows 10,18328.32,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,108105.12,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Intel HD Graphics 520,Windows 10,23816.16,Other
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,512,Nvidia GeForce GTX 1050,Windows 10,66560.5728,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,1.0 ,Nvidia GeForce GTX 1050,Windows 10,47898.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,128,Intel HD Graphics 620,Windows 10,26533.44,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,100699.2,SSD
+HP,Ultrabook,14.0,Full HD,Intel Core i5 7500U 2,4,256,Intel HD Graphics 620,Windows 10,57648.96,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 8250U 1,6,256,AMD Radeon 520,Windows 10,32980.32,SSD
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i3 7100U 2,4,256,Intel HD Graphics 620,Windows 10,33513.119999999995,SSD
+Asus,2 in 1 Convertible,13.3,Full HD,Intel Core i5 8250U 1,8,256,Intel HD Graphics 620,Windows 10,70063.2,SSD
+Dell,2 in 1 Convertible,15.6,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,55890.72,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,500 ,Intel HD Graphics 520,Windows 10,23816.16,Other
+Asus,Notebook,15.6,Full HD,AMD A9-Series 9420 3GHz,4,1 ,AMD Radeon R5 M420,Windows 10,21471.84,Other
+Acer,Notebook,17.3,Full HD,Intel Core i5 8250U 1,4,256,Nvidia GeForce MX150,Windows 10,42890.4,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,256,AMD Radeon 520,Windows 10,38787.84,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256,Nvidia GeForce GTX 1050 Ti,Windows 10,57489.12,SSD
+Acer,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,4,1 ,Intel HD Graphics 500,Windows 10,18541.44,Other
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,95850.72,SSD
+Acer,Notebook,15.6,Full HD,Intel Pentium Quad Core N4200 1,4,1 ,Intel HD Graphics 505,Windows 10,19367.8128,Other
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,56502.9072,SSD
+Acer,Notebook,17.3,Full HD,Intel Core i5 8250U 1,8,256,Nvidia GeForce MX150,Windows 10,45501.12,SSD
+HP,Notebook,13.3,Full HD,Intel Core i5 8250U 1,4,500 ,Intel UHD Graphics 620,Windows 10,40173.12,Other
+Huawei,Ultrabook,13.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,71874.72,SSD
+HP,Notebook,17.3,Full HD,Intel Core i5 7200U 2,6,2 ,AMD Radeon 520,Windows 10,37242.72,Other
+Lenovo,Notebook,15.6,Full HD,AMD A6-Series 9220 2,4,500 ,AMD Radeon R4 Graphics,No OS,16463.52,Other
+Toshiba,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,500 ,Intel HD Graphics 620,Windows 10,26053.92,Other
+HP,Notebook,17.3,Full HD,Intel Core i5 8250U 1,8,256,Nvidia GeForce 930MX,Windows 10,49177.44,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 7100U 2,8,1 ,Intel HD Graphics 620,Windows 10,24455.52,Other
+Acer,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,Windows 10,23922.72,SSD
+MSI,Gaming,18.4,Full HD,Intel Core i7 6920HQ 2,32,512 +  1 ,Nvidia GTX 980 SLI,Windows 10,149130.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,128 +  1 ,AMD R17M-M1-70,Windows 10,43316.64,SSD
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,79866.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,16,256 +  2 ,AMD Radeon 530,Linux,55890.72,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,74538.72,SSD
+Lenovo,2 in 1 Convertible,13.9,Full HD,Intel Core i7 8550U 1,16,512,Intel UHD Graphics 620,Windows 10,98514.72,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,128,Intel HD Graphics 620,Windows 10,42251.04,SSD
+Xiaomi,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,256,Nvidia GeForce MX150,No OS,63882.72,SSD
+Dell,Notebook,17.3,Full HD,Intel Core i7 8550U 1,16,512,Nvidia GeForce 150MX,Windows 10,82530.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,16,512,Nvidia GeForce GTX 1050,Windows 10,127712.16,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,256,Nvidia GeForce GTX 1050,No OS,41505.12,SSD
+Acer,Ultrabook,13.3,Full HD,Intel Core i5 7Y54 1,8,256,Intel HD Graphics 615,Windows 10,52693.92,SSD
+Dell,Notebook,17.3,Full HD,Intel Core i7 8550U 1,8,128 +  1 ,AMD Radeon 530,Windows 10,57808.8,SSD
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 7500U 2,16,1,Intel HD Graphics 620,Windows 10,150462.72,SSD
+Vero,Notebook,14.0,Full HD,Intel Celeron Dual Core N3350 1,4,32 ,Intel HD Graphics 500,Windows 10,13852.8,Other
+Xiaomi,Ultrabook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Nvidia GeForce MX150,No OS,53274.67199999999,SSD
+Lenovo,Notebook,17.3,Full HD,Intel Core i5 8250U 1,8,256,Nvidia GeForce MX150,No OS,37189.44,SSD
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i7 8550U 1,8,1 ,Intel UHD Graphics 620,Windows 10,44701.92,Other
+HP,Notebook,17.3,Full HD,Intel Core i5 8250U 1,8,1 ,Nvidia GeForce 930MX,Windows 10,48697.92,Other
+Razer,Gaming,17.3,Full HD,Intel Core i7 7820HK 2,32,1,Nvidia GeForce GTX 1080,Windows 10,324954.72,SSD
+HP,Notebook,13.3,Full HD,Intel Core i5 8250U 1,8,512,Intel UHD Graphics 620,Windows 10,51095.52,SSD
+HP,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050,Windows 10,73473.12,SSD
+HP,Notebook,17.3,Full HD,Intel Core i7 8550U 1,8,256,Nvidia GeForce 930MX ,Windows 10,55677.6,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,512 +  1 ,Nvidia GeForce GTX 1060,Windows 10,98301.6,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,128,Intel HD Graphics 520,Windows 10,26267.04,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,Nvidia GeForce 940MX,Windows 10,39533.76,Other
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,512 +  1 ,Nvidia GeForce GTX 1060,Windows 10,93186.72,SSD
+Dell,Workstation,15.6,Full HD,Intel Xeon E3,16,256 +  1 ,Nvidia Quadro M1200,Windows 10,162770.4,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,512,Nvidia GeForce GTX 1060,No OS,74485.44,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 7100U 2,6,1 ,Intel HD Graphics 620,Windows 10,23389.92,Other
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,103842.72,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,77202.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,31808.16,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1050,Linux,41505.12,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050,Windows 10,74964.95999999999,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,No OS,18594.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,No OS,29250.72,SSD
+Huawei,Ultrabook,13.0,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,79866.72,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 8550U 1,8,256,AMD Radeon 530,Windows 10,49650.5664,SSD
+Lenovo,Notebook,17.3,Full HD,Intel Core i5 7200U 2,8,1 ,Nvidia GeForce GTX 940MX,No OS,31381.92,Other
+HP,Notebook,14.0,Full HD,Intel Core i7 8550U 1,8,256,Nvidia GeForce 930MX,Windows 10,54931.68,SSD
+Dell,Ultrabook,14.0,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,61218.72,SSD
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i7 8550U 1,16,512,Intel UHD Graphics 620,Windows 10,68145.12,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,256,AMD Radeon 520,Linux,36089.208,SSD
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,47898.72,SSD
+Toshiba,Ultrabook,13.3,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,72620.64,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,1 ,Intel UHD Graphics 620,Windows 10,42304.32,Other
+Dell,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,130873.7952,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Nvidia GeForce 940MX,Windows 10,44328.96,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,16,1 ,AMD Radeon R7 M445,Windows 10,45768.0528,Other
+Asus,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Nvidia GeForce 920MX ,Windows 10,40972.32,SSD
+Asus,Notebook,17.3,Full HD,Intel Core i5 7200U 2,8,256 +  500 ,Nvidia GeForce GTX 950M,Windows 10,47472.48,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,AMD FirePro W4190M ,Windows 10,67612.31999999999,Other
+Asus,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,1 ,Intel HD Graphics 620,Windows 10,21258.1872,Other
+HP,Notebook,15.6,Full HD,AMD E-Series 9000e 1,4,500 ,AMD Radeon R2,Windows 10,17582.399999999998,Other
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,79866.72,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,45767.52,SSD
+Acer,2 in 1 Convertible,13.3,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,36709.92,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,16,256,AMD Radeon R7 M445,Linux,47898.72,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Intel HD Graphics 520,Linux,20779.2,Other
+Asus,Notebook,15.6,Full HD,AMD A10-Series A10-9620P 2,4,128 +  1 ,AMD Radeon R5 M430,Windows 10,30636.0,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 7820HK 2,32,512 +  1 ,Nvidia GeForce GTX 1080,Windows 10,207259.2,SSD
+Acer,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,256,Nvidia GeForce GTX 1050,Windows 10,45074.88,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,8,128,Intel HD Graphics 520,Windows 10,31381.92,SSD
+Asus,Notebook,17.3,Full HD,Intel Core i7 8550U 1,8,128 +  1 ,Nvidia GeForce 150MX,Windows 10,61005.6,SSD
+Asus,Notebook,17.3,Full HD,Intel Core i7 7500U 2,8,128 +  1 ,Nvidia GeForce GTX 950M,No OS,47365.92,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,256,Nvidia GeForce GTX 1050,Windows 10,46833.12,SSD
+Lenovo,2 in 1 Convertible,13.9,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,57489.12,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,128 +  2 ,AMD Radeon 530,Windows 10,52480.8,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 620,Windows 10,29783.52,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 7820HK 2,16,256,Nvidia GeForce GTX 1080,Windows 10,159786.72,SSD
+HP,Notebook,13.3,Full HD,Intel Core i5 8250U 1,4,500 ,Intel UHD Graphics 620,Windows 10,35964.0,Other
+Apple,Ultrabook,13.3,Full HD,Intel Core i5 3,8,512,Intel Iris Plus Graphics 650,macOS,108691.2,SSD
+Dell,2 in 1 Convertible,15.6,Full HD,Intel Core i7 8550U 1,8,1 ,Intel UHD Graphics 620,Windows 10,43636.32,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 980M,Windows 10,95850.72,SSD
+Asus,Notebook,15.6,Full HD,AMD A9-Series 9420 3GHz,4,1 ,AMD Radeon R5 M420,Windows 10,24988.32,Other
+Lenovo,2 in 1 Convertible,13.9,Full HD,Intel Core i7 8550U 1,8,512,Intel UHD Graphics 620,Windows 10,98514.72,SSD
+Acer,Notebook,17.3,Full HD,Intel Core i3 7130U 2,4,256,Nvidia GeForce MX130,Windows 10,37402.56,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,50562.72,SSD
+HP,Notebook,15.6,Full HD,AMD A6-Series A6-9220 2,8,128,AMD Radeon R4 Graphics,Windows 10,23757.552,SSD
+HP,Notebook,17.3,Full HD,Intel Core i7 8550U 1,16,1 ,Nvidia GeForce MX150,Windows 10,56423.52,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,512 +  1 ,Nvidia GeForce GTX 1070,Windows 10,133146.72,SSD
+Lenovo,2 in 1 Convertible,15.6,Full HD,Intel Core i7 7700HQ 2,8,512,Nvidia GeForce GTX 1050M,Windows 10,90522.72,SSD
+Dell,Notebook,17.3,Full HD,Intel Core i7 8550U 1,8,128 +  1 ,AMD Radeon 530,Windows 10,60845.76,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,256,Intel HD Graphics 520,No OS,23656.32,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 8250U 1,4,500 ,Intel HD Graphics 620,Windows 10,38468.16,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Intel HD Graphics 620,Windows 10,35004.96,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,AMD Radeon R5 M430,Windows 10,30103.2,Other
+Dell,2 in 1 Convertible,15.6,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,42570.72,SSD
+Asus,2 in 1 Convertible,13.3,Full HD,Intel Core i7 8550U 1,8,512 +  512,Intel UHD Graphics 620,Windows 10,79866.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Intel HD Graphics 620,No OS,24881.76,Other
+HP,Notebook,17.3,Full HD,Intel Core i7 8550U 1,8,1 ,Nvidia GeForce 930MX ,Windows 10,54239.04,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,46886.4,SSD
+Apple,Ultrabook,13.3,Full HD,Intel Core i5 2,8,512,Intel Iris Graphics 550,macOS,104370.192,SSD
+Asus,Gaming,17.3,Full HD,AMD Ryzen 1700 3GHz,16,256 +  1 ,AMD Radeon RX 580,Windows 10,82530.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256,AMD Radeon 520,Linux,39164.5296,SSD
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 6600U 2,16,512,Intel HD Graphics 520,Windows 10,133146.72,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i7 6500U 2,8,500 ,Nvidia GeForce 930M,Windows 10,43263.36,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,12,1 ,Intel HD Graphics 620,Windows 10,37992.3696,Other
+Dell,Notebook,17.3,Full HD,Intel Core i7 8550U 1,8,128 +  1 ,AMD Radeon 530,Linux,58554.72,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,1 ,Nvidia GeForce MX130,Windows 10,39693.6,Other
+Lenovo,Notebook,17.3,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Intel HD Graphics 520,Windows 10,26053.92,Other
+Lenovo,Notebook,17.3,Full HD,Intel Core i7 8550U 1,8,2 ,Nvidia GeForce MX150,No OS,45234.72,Other
+Lenovo,Notebook,17.3,Full HD,Intel Core i7 7500U 2,6,128 +  1 ,Nvidia GeForce 940MX,Windows 10,45767.52,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,1 ,AMD Radeon R5 M430,Linux,22803.84,Other
+Lenovo,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,256,Nvidia GeForce GTX 1050,Windows 10,44169.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,6,256,Intel HD Graphics 620,Windows 10,30849.12,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256,Nvidia GeForce MX150,Windows 10,50669.28,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i7 7500U 2,12,1 ,Intel HD Graphics 620,Windows 10,35111.52,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 630,Windows 10,58448.16,SSD
+Asus,Ultrabook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Nvidia GeForce 940MX,Windows 10,52054.56,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,62817.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,Nvidia GeForce 940MX,No OS,35112.0528,Other
+Acer,Notebook,15.6,Full HD,Intel Celeron Dual Core 3205U 1,2,16,Intel HD Graphics,Chrome OS,10602.72,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1050,Windows 10,63243.36,Other
+HP,Notebook,17.3,Full HD,Intel Core i3 6006U 2GHz,8,1 ,Intel HD Graphics 520,Windows 10,26053.92,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia GeForce GTX 1050,Windows 10,97449.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,39373.92,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1060,Windows 10,69210.72,Other
+Acer,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia GeForce GTX 1050 Ti,Linux,52161.12,SSD
+Dell,Workstation,17.3,Full HD,Intel Core i7 7820HQ 2,16,256,Nvidia Quadro M1200,Windows 10,153705.3408,SSD
+Lenovo,Notebook,15.6,Full HD,AMD A10-Series 9600P 2,6,1 ,AMD Radeon R5 430,Windows 10,26586.72,Other
+Asus,Ultrabook,15.6,Full HD,Intel Core i7 7500U 2,16,512,Nvidia GeForce 940MX,Windows 10,78215.04,SSD
+Asus,Notebook,14.0,Full HD,Intel Core i3 7100U 2,4,128,Intel HD Graphics 620,Windows 10,27119.52,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,113060.16,SSD
+Lenovo,Notebook,17.3,Full HD,Intel Core i5 7200U 2,6,1 ,Nvidia GeForce GTX 940M,Windows 10,34578.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,2 ,Nvidia GeForce 940MX,No OS,29250.72,Other
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,67399.2,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Pentium Quad Core N4200 1,4,1 ,Intel HD Graphics 505,No OS,19180.2672,Other
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i7 7600U 2,16,256,Intel HD Graphics 620,Windows 10,105228.0,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i7 6500U 2,8,256,Nvidia GeForce 930M,Windows 10,55571.04,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,128 +  1 ,Nvidia GeForce 940MX,Windows 10,43636.32,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Intel HD Graphics 520,Windows 10,24988.32,Other
+Lenovo,Notebook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,53226.72,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 8550U 1,16,1,Intel UHD Graphics 620,Windows 10,133146.72,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,111834.72,SSD
+Acer,Notebook,15.6,Full HD,AMD A8-Series 7410 2,8,256,AMD Radeon R5,Windows 10,24988.32,SSD
+Asus,2 in 1 Convertible,11.6,Full HD,Intel Celeron Dual Core N3350 1,2,32 ,Intel HD Graphics 500,Windows 10,14652.0,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,128 +  1 ,AMD Radeon 530,Windows 10,44968.32,SSD
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i7 8550U 1,16,1,Intel UHD Graphics 620,Windows 10,130482.72,SSD
+Lenovo,Notebook,13.3,Full HD,Intel Celeron Dual Core 3855U 1,4,16 ,Intel HD Graphics 510,Chrome OS,24503.472,Other
+HP,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,52214.4,SSD
+Acer,Notebook,11.6,Full HD,Intel Pentium Quad Core N3710 1,4,128 ,Intel HD Graphics 405,Windows 10,25840.8,Other
+HP,Notebook,14.0,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,68837.76,SSD
+Lenovo,Notebook,17.3,Full HD,Intel Core i5 7200U 2,4,1 ,Nvidia GeForce 920MX,Windows 10,31381.92,Other
+Asus,Notebook,14.0,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,58288.32,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,1 ,Intel UHD Graphics 620,Windows 10,48058.56,Other
+Acer,Notebook,15.6,Full HD,AMD A12-Series 9720P 2,8,256,AMD Radeon RX 540,Windows 10,35111.52,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Celeron Dual Core N3350 1,4,32 ,Intel HD Graphics 500,Windows 10,15557.76,Other
+Acer,Notebook,15.6,Full HD,Intel Core i5 7200U 2,6,1 ,Intel HD Graphics 620,Windows 10,29250.72,Other
+Asus,Ultrabook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Nvidia GeForce 940MX,Windows 10,55938.672,SSD
+HP,Ultrabook,12.5,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,71128.8,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,32,1,Nvidia GeForce GTX 1050,Windows 10,140605.91999999998,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,8,256 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,63882.72,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,50243.04,SSD
+Asus,Notebook,14.0,Full HD,Intel Core i7 7500U 2,8,256 +  1 ,Intel HD Graphics 620,Windows 10,71075.52,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Intel HD Graphics 520,Windows 10,23922.72,Other
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia GeForce GTX 1050,Windows 10,53226.72,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 7300U 2,8,256,Intel HD Graphics 620,Windows 10,67559.04,SSD
+Dell,Ultrabook,15.6,Full HD,Intel Core i5 8250U 1,8,128 +  1 ,Nvidia GeForce 940MX,Windows 10,55890.72,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,60952.32,SSD
+Asus,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,4,1 ,Intel HD Graphics 500,Linux,14651.4672,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,256,Nvidia GeForce 940MX,Windows 10,60885.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Celeron Dual Core N3060 1,4,500 ,Intel HD Graphics,Linux,14646.672,Other
+Lenovo,Notebook,15.6,Full HD,AMD A12-Series 9720P 3,12,2 ,AMD Radeon 530,Windows 10,47898.72,Other
+HP,Notebook,15.6,Full HD,Intel Core i3 7100U 2,8,1 ,Nvidia GeForce 930MX ,Windows 10,38148.48,Other
+Lenovo,2 in 1 Convertible,13.9,Full HD,Intel Core i7 8550U 1,16,512,Intel UHD Graphics 620,Windows 10,111834.72,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,84129.12,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  2 ,Nvidia GeForce GTX 1050 Ti,Windows 10,60153.12,SSD
+HP,Notebook,14.0,Full HD,Intel Celeron Dual Core N3060 1,2,32 ,Intel HD Graphics 400,Windows 10,14865.12,Other
+Dell,Ultrabook,15.6,Full HD,Intel Core i7 8650U 1,16,512 +  256,Intel UHD Graphics 620,Windows 10,85672.1088,SSD
+Asus,2 in 1 Convertible,11.6,Full HD,Intel Celeron Dual Core N3350 1,4,32 ,Intel HD Graphics 500,Windows 10,19980.0,Other
+Dell,Ultrabook,15.6,Full HD,Intel Core i5 8250U 1,8,1 ,AMD Radeon 530,Windows 10,35324.64,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,16,512,Nvidia GeForce GTX 1050,Windows 10,108020.9376,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,69477.12,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,75071.52,SSD
+HP,Workstation,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia Quadro M1200,Windows 10,92615.0256,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i7 6500U 2,16,512,Nvidia GeForce 930M,Windows 10,74751.84,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,128 +  2 ,AMD Radeon 530,Windows 10,51729.55199999999,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,4,1 ,Intel HD Graphics 500,No OS,17155.627200000003,Other
+Dell,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,1 ,Nvidia GeForce GTX 1050,Windows 10,53226.72,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,2 ,Intel HD Graphics 620,Windows 10,29696.6736,Other
+Dell,Notebook,14.0,Full HD,Intel Core i5 7300U 2,8,256,Intel HD Graphics 620,Windows 10,76030.56,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,Windows 10,23389.92,Other
+Asus,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,50349.6,SSD
+Lenovo,Notebook,17.3,Full HD,Intel Core i5 7200U 2,6,128 +  1 ,Nvidia GeForce GTX 940MX,Windows 10,38308.32,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 620,Windows 10,34045.92,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,8,256,Nvidia GeForce 920MX ,No OS,26586.72,SSD
+HP,Notebook,15.6,Full HD,Intel Pentium Quad Core N3710 1,8,2 ,Intel HD Graphics 405,Windows 10,20725.92,Other
+Dell,Notebook,17.3,Full HD,Intel Core i5 8250U 1,8,128 +  1 ,AMD Radeon 530,Windows 10,57808.8,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,No OS,43103.52,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,AMD Radeon R7 M445,Windows 10,47898.72,SSD
+HP,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,93240.0,SSD
+Asus,2 in 1 Convertible,15.6,Full HD,Intel Core i7 7500U 2,12,512 +  2 ,Nvidia GeForce GT 940MX,Windows 10,58554.72,SSD
+Acer,Notebook,15.6,Full HD,AMD A9-Series 9420 3GHz,4,128,AMD Radeon R5,Windows 10,22697.28,SSD
+Asus,Gaming,17.3,Full HD,AMD Ryzen 1700 3GHz,16,256 +  1 ,AMD Radeon RX 580,Windows 10,117162.72,SSD
+Lenovo,Notebook,17.3,Full HD,AMD A8-Series 7410 2,4,128,AMD Radeon R5,Windows 10,26053.92,SSD
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,46300.85279999999,SSD
+HP,Notebook,15.6,Full HD,AMD A9-Series 9420 3GHz,4,256,AMD Radeon R5,Windows 10,26053.3872,SSD
+Lenovo,Netbook,11.6,Full HD,Intel Celeron Quad Core N3450 1,4,128,Intel HD Graphics 500,Windows 10,29463.84,SSD
+Dell,Notebook,15.6,Full HD,Intel Celeron Dual Core N3060 1,4,500 ,Intel HD Graphics 400,Windows 10,16463.52,Other
+Asus,Notebook,14.0,Full HD,Intel Celeron Dual Core N3350 1,4,32 ,Intel HD Graphics 500,Windows 10,15238.08,Other
+Acer,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1050,Linux,45074.88,Other
+HP,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,63456.48,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,No OS,21498.48,SSD
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,88178.4,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Nvidia GeForce 940MX,Windows 10,58554.72,SSD
+Asus,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,93181.392,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,121584.96,SSD
+Lenovo,Notebook,13.3,Full HD,Intel Core i3 7100U 2,4,128,Intel HD Graphics 620,Windows 10,29250.72,SSD
+Dell,Workstation,15.6,Full HD,Intel Core i5 6440HQ 2,8,500 ,AMD FirePro W5130M,Windows 10,72940.31999999999,Other
+Dell,Workstation,15.6,Full HD,Intel Core i7 6820HQ 2,8,256,Nvidia Quadro M1200,Windows 10,113752.8,SSD
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,133679.52,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1050,Windows 10,55357.92,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,84768.48,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i5 8250U 1,12,1 ,Nvidia GeForce MX130,Windows 10,36975.7872,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia GeForce GTX 1050 Ti,Windows 10,71874.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,AMD Radeon R7 M445,Linux,41498.1936,SSD
+HP,Ultrabook,15.6,Full HD,AMD A9-Series 9420 3GHz,4,256,AMD Radeon 520,Windows 10,26586.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256,AMD Radeon RX 550,Windows 10,65510.9568,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,49976.64,SSD
+Dell,Workstation,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia Quadro M1200,Windows 10,144495.36,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,16,1,Intel HD Graphics 620,Windows 10,139860.0,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,4,1 ,Intel HD Graphics 500,Windows 10,16303.68,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050,Windows 10,81465.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,256 +  1 ,AMD Radeon RX 550,Windows 10,60978.96,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia GeForce GTX 1050,Linux,46833.12,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,119826.72,SSD
+Asus,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,99793.44,SSD
+Toshiba,Ultrabook,13.3,Full HD,Intel Core i7 6500U 2,16,512,Intel HD Graphics 520,Windows 10,93080.16,SSD
+Dell,Ultrabook,14.0,Full HD,Intel Core i7 7600U 2,8,512,Intel HD Graphics,Windows 10,89510.4,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,Windows 10,21791.52,Other
+Lenovo,Notebook,11.6,Full HD,Intel Celeron Dual Core N3350 1,2,32 ,Intel HD Graphics 500,Windows 10,16221.096,Other
+Lenovo,Workstation,15.6,Full HD,Intel Core i7 7700HQ 2,8,512,Nvidia Quadro M1200,Windows 10,102564.0,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 7700HQ 2,8,512,Nvidia GeForce GT 940MX,Windows 10,103523.04,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,AMD Radeon 520,Windows 10,24988.32,Other
+Acer,2 in 1 Convertible,13.3,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,42038.4528,SSD
+Asus,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,49443.84,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,256,AMD Radeon R5 M430,Linux,31909.392,SSD
+Dell,Notebook,13.3,Full HD,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,Windows 10,36709.92,SSD
+HP,Ultrabook,14.0,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,79920.0,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 620,Windows 10,28768.536,Other
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 8550U 1,8,256,AMD Radeon RX 550,Windows 10,64755.44640000001,SSD
+Lenovo,2 in 1 Convertible,15.6,Full HD,Intel Core i7 7700HQ 2,16,512,Nvidia GeForce GTX 1050,Windows 10,101178.72,SSD
+Chuwi,Notebook,12.3,Full HD,Intel Celeron Quad Core N3450 1,6,64 ,Intel HD Graphics 500,Windows 10,23922.72,Other
+HP,Notebook,15.6,Full HD,Intel Core i7 7820HQ 2,8,256,Intel HD Graphics 630,Windows 10,76030.56,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i3 7100U 2,8,1 ,Nvidia GeForce 940MX,Linux,31808.16,Other
+Dell,Gaming,17.3,Full HD,Intel Core i7 7820HK 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,149130.72,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,61751.52,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256 +  2 ,AMD Radeon 530,Windows 10,60867.072,SSD
+Dell,Ultrabook,14.0,Full HD,Intel Core i7 7600U 2,8,256,Intel HD Graphics 620,Linux,58554.72,SSD
+HP,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,12,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,106506.72,SSD
+Mediacom,2 in 1 Convertible,11.6,Full HD,Intel Celeron Dual Core N3350 1,4,32,Intel HD Graphics 500,Windows 10,15930.72,SSD
+Samsung,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,4,16 ,Intel HD Graphics 400,Chrome OS,14332.32,Other
+Lenovo,Notebook,13.3,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,53812.8,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i3 7130U 2,4,128,Intel HD Graphics 620,Windows 10,31914.72,SSD
+Lenovo,Workstation,15.6,Full HD,Intel Core i7 7600U 2,16,512,Nvidia GeForce 940MX,Windows 10,130269.6,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 7820HQ 2,16,512,Nvidia Quadro M2200M,Windows 10,130482.72,SSD
+Asus,Gaming,17.3,Full HD,AMD Ryzen 1600 3,8,256 +  1 ,AMD Radeon RX 580,Windows 10,90309.6,SSD
+HP,Notebook,15.6,Full HD,Intel Celeron Dual Core N3060 1,4,500 ,Intel HD Graphics 400,Windows 10,18488.16,Other
+Google,Ultrabook,12.3,Full HD,Intel Core i7 7Y75 1,16,512,Intel HD Graphics 615,Chrome OS,117162.72,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,24,512,Intel HD Graphics 620,Windows 10,126912.96,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Linux,29783.52,SSD
+Lenovo,Notebook,17.3,Full HD,AMD A6-Series 9220 2,8,1 ,AMD Radeon R4,Windows 10,27652.32,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 8250U 1,4,256,AMD Radeon 530,Windows 10,39906.72,SSD
+Lenovo,Ultrabook,12.5,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,76137.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Pentium Quad Core N4200 1,4,128,Intel HD Graphics 505,Windows 10,18594.72,SSD
+HP,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,58554.72,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i5 7440HQ 2,8,256,Nvidia GeForce 930MX,Windows 10,62817.12,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Linux,23539.104,Other
+Dell,Workstation,15.6,Full HD,Intel Xeon E3,8,64  +  1 ,Nvidia Quadro M620,Windows 10,106187.04,Other
+MSI,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,256,Nvidia GeForce GTX 1050,Windows 10,54757.9872,SSD
+Microsoft,Ultrabook,13.5,Full HD,Intel Core i7 7660U 2,16,512,Intel Iris Plus Graphics 640,Windows 10 S,137941.91999999998,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,128,Intel HD Graphics 620,Windows 10,31381.92,SSD
+Dell,Workstation,15.6,Full HD,Intel Core i7 6820HQ 2,16,256,Nvidia Quadro M620,Windows 10,105228.0,SSD
+HP,Workstation,15.6,Full HD,Intel Core i7 7820HQ 2,8,512,Intel HD Graphics 620,Windows 10,81731.52,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,71661.59999999999,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,128 +  1 ,AMD Radeon 530,Windows 10,52161.12,SSD
+Dell,2 in 1 Convertible,11.6,Full HD,Intel Pentium Quad Core N3710 1,4,500 ,Intel HD Graphics 405,Windows 10,25521.12,Other
+Dell,Notebook,17.3,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1060,Windows 10,109010.88,Other
+Microsoft,Ultrabook,13.5,Full HD,Intel Core M m3,4,128,Intel HD Graphics 615,Windows 10 S,52693.92,SSD
+Microsoft,Ultrabook,13.5,Full HD,Intel Core i7 7660U 2,8,256,Intel Iris Plus Graphics 640,Windows 10 S,95850.72,SSD
+HP,Notebook,17.3,Full HD,Intel Core i3 6006U 2GHz,8,256,Intel HD Graphics 520,Windows 10,34093.872,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Nvidia GeForce 940MX,Windows 10,28984.32,Other
+Acer,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,4,128,Intel HD Graphics 400,Windows 10,23176.8,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 620,Windows 10,39906.72,Other
+Lenovo,Notebook,14.0,Full HD,Intel Core i7 7500U 2,8,512,AMD Radeon R7 M460,No OS,42570.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 7820HQ 2,8,256,Nvidia Quadro M2200M,Windows 10,111355.2,SSD
+Asus,Notebook,15.6,Full HD,Intel Pentium Quad Core N4200 1,4,500 ,Intel HD Graphics 500,Windows 10,16197.12,Other
+Acer,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Nvidia GeForce GTX 940MX,Windows 10,24988.32,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,2 ,AMD Radeon 530,Windows 10,40439.52,Other
+HP,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,12,1 ,Nvidia GeForce GTX 1060,Windows 10,90522.72,Other
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 6600U 2,12,256,Intel HD Graphics 520,Windows 10,98994.24,SSD
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i7 8550U 1,8,512,Intel UHD Graphics 620,Windows 10,106506.72,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,500 ,AMD FirePro W4190M ,Windows 10,61485.12,Other
+Google,Ultrabook,12.3,Full HD,Intel Core i5 7Y57 1,8,128,Intel HD Graphics 615,Chrome OS,67932.0,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,98133.768,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i7 6700HQ 2,12,128 +  1 ,Intel HD Graphics 530,Windows 10,69210.72,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i3 6100U 2,8,128,Intel HD Graphics 520,Windows 10,39427.2,SSD
+Dell,Workstation,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia Quadro M1200,Windows 10,128298.24,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,180,Intel HD Graphics 620,Windows 10,72673.92,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,1 ,AMD Radeon 520,Windows 10,35964.0,Other
+Toshiba,Notebook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,89084.16,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,512,Nvidia GeForce 940MX,Windows 10,67239.36,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,1 ,Intel HD Graphics 620,Windows 10,31254.048,Other
+HP,Notebook,13.3,Full HD,Intel Core i5 8250U 1,4,128,Intel UHD Graphics 620,Windows 10,38681.28,SSD
+Chuwi,Notebook,15.6,Full HD,Intel Atom x5,4,64 ,Intel HD Graphics,Windows 10,13261.392000000002,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,128,Intel HD Graphics 520,Windows 10,30103.2,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,55890.72,SSD
+Dell,Workstation,15.6,Full HD,Intel Core i7 6820HQ 2,16,512,Nvidia Quadro M620,Windows 10,124568.64,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,16,512,Nvidia GeForce GTX 1050,Windows 10,101178.72,SSD
+Lenovo,Ultrabook,12.5,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,95797.44,SSD
+Asus,Ultrabook,12.5,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,103896.0,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Nvidia GeForce 940MX,Windows 10,53918.82719999999,SSD
+Toshiba,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,32,512,Intel HD Graphics 620,Windows 10,149130.72,SSD
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,71928.0,SSD
+Acer,Notebook,15.6,Full HD,AMD A10-Series 9620P 2,8,1 ,AMD Radeon RX 540,Windows 10,30849.12,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,24,256 +  1 ,Nvidia GeForce GTX 965M,Windows 10,67612.31999999999,SSD
+Lenovo,Ultrabook,12.5,Full HD,Intel Core i5 6200U 2,8,180,Intel HD Graphics 520,Windows 10,58554.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,47893.39199999999,SSD
+HP,Notebook,14.0,Full HD,Intel Core i7 7600U 2,8,1,Intel HD Graphics 620,Windows 10,93186.72,SSD
+Lenovo,Notebook,13.3,Full HD,Intel Core i3 7100U 2,8,256,Intel HD Graphics 620,Windows 10,50562.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,48538.08,SSD
+Asus,Netbook,11.6,Full HD,Intel Celeron Dual Core N3350 1,4,64 ,Intel HD Graphics 500,Windows 10 S,18115.2,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,AMD Radeon 520,Windows 10,32979.7872,SSD
+Lenovo,2 in 1 Convertible,13.9,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,85194.72,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Celeron Dual Core N3350 1,4,500 ,Intel HD Graphics 500,Windows 10,15930.72,Other
+Lenovo,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,4,16,Intel HD Graphics 400,Chrome OS,14119.2,SSD
+Lenovo,Notebook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,50562.72,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256 +  1 ,Intel HD Graphics 620,Windows 10,65214.72,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i5 8250U 1,4,1 ,Nvidia GeForce MX150,Windows 10,32660.64,Other
+HP,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,70489.44,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,256 +  1 ,Nvidia GeForce GTX 1060,No OS,61218.72,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 7200U 2,8,128,Intel HD Graphics 620,Windows 10,47898.72,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i7 7500U 2,4,500 ,Nvidia GeForce 940MX,Windows 10,34045.92,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 620,Windows 10,44542.08,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,16,256 +  2 ,AMD Radeon 530,Windows 10,64961.10719999999,SSD
+Xiaomi,Notebook,15.6,Full HD,Intel Core i7 8550U 1,16,256,Nvidia GeForce MX150,No OS,74589.336,SSD
+Asus,Netbook,11.6,Full HD,Intel Celeron Dual Core N3350 1,2,32 ,Intel HD Graphics 500,Windows 10,13053.6,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 8250U 1,4,1 ,Intel UHD Graphics 620,Windows 10,27783.9216,Other
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,24,512,Nvidia GeForce GTX1080,Windows 10,158135.04,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Nvidia GeForce 930MX,Windows 10,47365.92,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX1050 Ti,Windows 10,80133.12,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,74538.72,SSD
+HP,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,74538.72,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i5 7300U 2,8,256,Intel HD Graphics 620,Windows 10,68184.0144,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,Windows 10,36709.92,SSD
+Dell,Notebook,17.3,Full HD,Intel Core i5 8250U 1,8,128 +  1 ,AMD Radeon 530,Linux,47365.92,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 7,71395.2,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 7500U 2,4,1 ,Nvidia GeForce 920MX,Windows 10,42570.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,8,2 ,Nvidia GeForce 920MX ,No OS,24455.52,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,AMD Radeon R5 M430,Windows 10,31168.8,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7440HQ 2,8,256,Intel HD Graphics 620,Windows 10,73366.56,SSD
+Dell,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 1070,Windows 10,160520.3856,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,500 ,Intel HD Graphics 620,Windows 10,45820.8,Other
+Asus,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256 +  1 ,Nvidia GeForce GTX 960M,Windows 10,69210.72,SSD
+Mediacom,Notebook,13.3,Full HD,Intel Celeron Quad Core N3450 1,4,32,Intel HD Graphics 500,Windows 10,19660.32,SSD
+Asus,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,87858.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7600U 2,8,256,Nvidia GeForce 930MX,Windows 10,72940.31999999999,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,256,AMD Radeon 530,Windows 10,42486.0048,SSD
+HP,Notebook,15.6,Full HD,Intel Pentium Quad Core N3710 1,4,256,Intel HD Graphics 405,Windows 10,21258.1872,SSD
+HP,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,12,1 ,Nvidia GeForce GTX 1060,Windows 10,95850.72,Other
+Lenovo,Notebook,14.0,Full HD,Intel Core i7 7500U 2,8,256,Nvidia GeForce 940MX,Windows 10,45767.52,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 8550U 1,8,256,Intel UHD Graphics 620,Windows 10,74538.72,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,Windows 10,39207.1536,SSD
+HP,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,61005.6,SSD
+Acer,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,1 ,Nvidia GeForce GTX 1050,Linux,42517.44,Other
+Asus,Notebook,15.6,Full HD,AMD E-Series 7110 1,4,500 ,AMD Radeon R2 Graphics,Windows 10,18594.72,Other
+HP,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,128,Intel HD Graphics 620,Windows 10,37589.04,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,41824.8,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,1 ,Intel HD Graphics 520,No OS,24634.008,Other
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,Windows 10,21152.16,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,92121.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,Windows 10,26586.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,59513.2272,SSD
+Dell,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,143802.72,SSD
+HP,Notebook,17.3,Full HD,Intel Core i3 6006U 2GHz,8,1 ,Intel HD Graphics 520,Windows 10,28992.312,Other
+HP,Notebook,17.3,Full HD,Intel Core i7 7500U 2,8,1 ,Nvidia GeForce 930MX,Windows 10,68198.4,Other
+Asus,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,4,500 ,Intel HD Graphics 500,Linux,11934.72,Other
+Mediacom,Notebook,13.3,Full HD,Intel Atom x5,4,32 ,Intel HD Graphics,Windows 10,13586.4,Other
+Lenovo,Notebook,17.3,Full HD,Intel Core i7 7500U 2,6,128 +  1 ,Nvidia GeForce 940MX,Windows 10,50562.72,SSD
+HP,Notebook,15.6,Full HD,AMD A10-Series A10-9620P 2,6,128,AMD Radeon 530,Windows 10,30310.992,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,AMD Radeon R5 M420,Windows 10,32921.712,Other
+Acer,2 in 1 Convertible,11.6,Full HD,Intel Celeron Dual Core N3350 2,4,32 ,Intel HD Graphics 500,Windows 10,18594.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 7130U 2,4,128,Intel HD Graphics 620,Windows 10,33566.4,SSD
+HP,Ultrabook,13.3,Full HD,Intel Core M 6Y75 1,16,512,Intel HD Graphics 515,Windows 10,104695.2,SSD
+Lenovo,Notebook,17.3,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia Quadro M620M,Windows 10,159786.72,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i5 7300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,44701.92,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 8250U 1,8,128,Intel UHD Graphics 620,Windows 10,85194.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7300U 2,4,500 ,Intel HD Graphics 620,Windows 10,51095.52,Other
+Fujitsu,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 620,Windows 10,39373.92,Other
+Lenovo,Notebook,15.6,Full HD,Intel Pentium Quad Core N4200 1,4,500 ,Intel HD Graphics 505,Windows 10,18328.32,Other
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,52747.2,Other
+HP,Workstation,17.3,Full HD,Intel Core i5 7440HQ 2,8,500 ,Nvidia Quadro M1200,Windows 10,99153.5472,Other
+HP,Notebook,14.0,Full HD,Intel Pentium Quad Core N3710 1,8,2 ,Intel HD Graphics 405,Windows 10,20725.92,Other
+HP,Notebook,15.6,Full HD,AMD A9-Series A9-9420 3GHz,6,256,AMD Radeon 530,Windows 10,34578.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,44222.4,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 8250U 1,4,500 ,Intel HD Graphics 620,Windows 10,36496.8,Other
+Mediacom,Notebook,14.0,Full HD,Intel Atom x5,4,32,Intel HD Graphics,Windows 10,13266.72,SSD
+Toshiba,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,99367.2,SSD
+Lenovo,Gaming,17.3,Full HD,Intel Core i7 6820HK 2,32,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,141884.63999999998,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 7820HK 2,16,512 +  1 ,Nvidia GeForce GTX 1070,Windows 10,145401.12,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,AMD Radeon R5 M430,Linux,39907.2528,SSD
+Mediacom,Notebook,14.0,Full HD,Intel Celeron Quad Core N3450 1,4,32,Intel HD Graphics 500,Windows 10,20725.92,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7300U 2,8,500 ,Intel HD Graphics 620,Windows 10,53733.94559999999,Other
+HP,Notebook,13.3,Full HD,Intel Core i3 7100U 2,4,128,Intel HD Graphics 620,Windows 10,38308.32,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7600U 2,16,256,Nvidia GeForce 930MX,Windows 10,81912.13919999999,SSD
+Dell,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,4,16 ,Intel HD Graphics 400,Chrome OS,15717.6,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 6820HK 2,16,128 +  1 ,Nvidia GeForce GTX 980M,Windows 10,125154.72,SSD
+HP,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050,Windows 10,79813.44,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 6600U 2,12,256,Intel HD Graphics 520,Windows 10,89137.44,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 8550U 1,12,1 ,Intel HD Graphics 620,Windows 10,32447.52,Other
+Asus,Gaming,17.3,Full HD,Intel Core i5 7300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,94305.6,SSD
+Asus,2 in 1 Convertible,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 520,Windows 10,39373.92,Other
+Lenovo,Notebook,15.6,Full HD,AMD A12-Series 9720P 3,12,512,AMD Radeon 530,Windows 10,50562.72,SSD
+Dell,2 in 1 Convertible,11.6,Full HD,Intel Core M 7Y30 1,4,128,Intel HD Graphics 615,Windows 10,32127.84,SSD
+Samsung,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,90522.72,SSD
+Lenovo,Notebook,17.3,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,No OS,28185.12,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6100U 2,8,1 ,Intel HD Graphics 520,Windows 10,24455.52,Other
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,107892.0,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 7300HQ 2,8,256,Intel HD Graphics 630,Windows 10,78534.72,SSD
+Dell,2 in 1 Convertible,12.5,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,88977.59999999999,SSD
+Dell,Workstation,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia Quadro M620,Windows 10,93932.64,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,64948.32,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,500 ,Intel HD Graphics 620,Windows 10,35616.6144,Other
+Acer,Notebook,14.0,Full HD,Intel Celeron Quad Core N3450 1,4,32 ,Intel HD Graphics 500,Windows 10,17529.12,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 6820HK 2,16,128 +  1 ,Nvidia GeForce GTX 970M,Windows 10,117162.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,AMD Radeon R5 M420,Linux,24775.2,Other
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  2 ,Nvidia GeForce GTX 1060,Windows 10,122490.72,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,74538.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,6,1 ,Intel HD Graphics 620,Windows 10,30049.92,Other
+Lenovo,2 in 1 Convertible,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Intel HD Graphics 630,Windows 10,69210.72,SSD
+Acer,Notebook,14.0,Full HD,Intel Pentium Quad Core N3710 1,4,128 ,Intel HD Graphics 405,Windows 10,18594.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Xeon E3,32,1,Nvidia Quadro M2200M,Windows 10,261018.72,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,16,1 ,Nvidia GeForce GTX 960<U+039C>,Windows 10,46833.6528,Other
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,1 ,Intel HD Graphics 520,Linux,23650.992,Other
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,1 ,Intel HD Graphics 520,Linux,19127.52,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7300U 2,4,500 ,Intel HD Graphics 620,Linux,46300.32,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,62231.04,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,128,AMD Radeon R5 M420,Linux,30316.32,SSD
+HP,Ultrabook,15.6,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,74005.92,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,120831.5808,SSD
+Acer,2 in 1 Convertible,11.6,Full HD,Intel Celeron Quad Core N3160 1,4,32 ,Intel HD Graphics 400,Chrome OS,20193.12,Other
+HP,Notebook,14.0,Full HD,Intel Core i5 7300U 2,8,256,Intel HD Graphics 620,Windows 10,59886.72,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 7,78055.2,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 8250U 1,4,1 ,AMD Radeon 530,Windows 10,41345.28,Other
+Fujitsu,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,42570.72,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 7,49656.96,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,Nvidia GeForce 920MX,Windows 10,47898.72,Other
+Mediacom,Notebook,14.0,Full HD,Intel Atom x5,2,32 ,Intel HD Graphics,Windows 10,12733.92,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,128,Intel HD Graphics 620,No OS,24935.04,SSD
+Asus,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,6,1 ,Intel HD Graphics 620,Windows 10,34046.4528,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia GeForce GTX 1050,Windows 10,96969.6,SSD
+Asus,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,101232.0,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,78801.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 8250U 1,4,256,Intel UHD Graphics 620,Windows 10,44169.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Nvidia GeForce 920MX ,Windows 10,30849.12,Other
+Asus,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,8,1 ,Intel HD Graphics 500,Windows 10,21258.72,Other
+Asus,Notebook,15.6,Full HD,Intel Core i5 7300HQ 2,8,1 ,Nvidia GeForce GTX 1050,Windows 10,48304.7136,Other
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,99580.32,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Celeron Dual Core N3060 1,2,32 ,Intel HD Graphics 400,Windows 10,13266.72,Other
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,93635.3376,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,16,1,Nvidia GeForce GTX 1050,Windows 10,127818.72,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050M,Windows 10,59087.52,SSD
+HP,Notebook,17.0,Full HD,AMD A9-Series 9420 3GHz,8,1 ,AMD Radeon R5,Windows 10,27753.552,Other
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,130536.0,SSD
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1050 Ti,No OS,62284.32,Other
+Acer,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,Windows 10,23976.0,Other
+Lenovo,Notebook,14.0,Full HD,Intel Celeron Dual Core N3060 1,4,32 ,Intel HD Graphics,Windows 10,14598.72,Other
+Acer,Ultrabook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel Graphics 620,Windows 10,48964.32,SSD
+Razer,Gaming,14.0,Full HD,Intel Core i7 7700HQ 2,16,256,Nvidia GeForce GTX 1060,Windows 10,138474.72,SSD
+Toshiba,Notebook,13.3,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,64628.64,SSD
+Lenovo,Ultrabook,12.5,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,84395.52,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 6820HK 2,32,512,Nvidia GeForce GTX 1080,Windows 10,149130.72,SSD
+Acer,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,1 ,Nvidia GeForce GTX 1050,Linux,37775.52,Other
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,77250.672,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,63499.10399999999,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,No OS,19441.872,Other
+Toshiba,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,500 ,Intel HD Graphics 620,Windows 10,56689.92,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,8,256,AMD Radeon 530,Windows 10,48964.32,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 8550U 1,16,256 +  2 ,AMD Radeon 530,Windows 10,60472.8,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 960,Windows 10,63722.88,SSD
+Dell,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,32,512 +  1 ,Nvidia GeForce GTX 1070,Windows 10,167691.8736,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i5 6300U 2,8,256,Intel HD Graphics 520,Windows 10,65481.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,4,500 ,Intel HD Graphics 500,Windows 10,22324.32,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,28504.8,Other
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,6,1 ,AMD Radeon R5 M430,Windows 10,28717.92,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,79215.1056,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i3 6100U 2,4,128,Intel HD Graphics 520,Windows 10,26533.44,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 620,Windows 10,50882.4,Other
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,AMD Radeon 530,Windows 10,39693.6,Other
+Toshiba,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,67026.23999999999,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,Linux,21951.36,SSD
+Microsoft,Ultrabook,13.5,Full HD,Intel Core i7 7600U 2,8,256,Intel Iris Plus Graphics 640,Windows 10 S,99519.048,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,128 +  1 ,AMD Radeon R5 M430,Windows 10,43580.376,SSD
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,55091.52,SSD
+Lenovo,Notebook,15.6,Full HD,AMD E-Series E2-9000 2,4,128,AMD Radeon R2 Graphics,Windows 10,18594.72,SSD
+HP,2 in 1 Convertible,14.0,Full HD,Intel Core i3 7100U 2,4,128,Nvidia GeForce 940MX,Windows 10,37242.72,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050,Windows 10,68944.31999999999,SSD
+Asus,Ultrabook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,60472.8,SSD
+HP,2 in 1 Convertible,11.6,Full HD,Intel Celeron Dual Core N3350 1,8,64 ,Intel HD Graphics 500,Chrome OS,26373.6,Other
+LG,Ultrabook,15.6,Full HD,Intel Core i7 8550U 1,8,512,Intel HD Graphics 620,Windows 10,122490.72,SSD
+Acer,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,16,256,Nvidia GeForce GTX 1050 Ti,Windows 10,69210.72,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,256,Nvidia GeForce GTX 1050,Windows 10,53168.112,SSD
+Asus,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,4,128,Intel HD Graphics 500,Windows 10,22324.32,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,16,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,109277.28,SSD
+HP,Notebook,17.3,Full HD,Intel Core i3 6006U 2GHz,4,256,AMD Radeon R5 520,Windows 10,37242.72,SSD
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i7 8550U 1,8,512,Intel UHD Graphics 620,Windows 10,79866.72,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 7820HK 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,149916.6,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,AMD Radeon 520,Windows 10,32639.8608,Other
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,AMD Radeon R5 M430,Windows 10,29073.297599999994,Other
+HP,Notebook,17.3,Full HD,AMD A10-Series 9600P 2,6,2 ,AMD Radeon R7 M440,Windows 10,30316.32,Other
+Lenovo,Notebook,15.6,Full HD,Intel Celeron Dual Core 3855U 1,4,500 ,Intel HD Graphics 510,Windows 10,16943.04,Other
+Acer,Notebook,14.0,Full HD,Intel Celeron Dual Core 3855U 1,4,32 ,Intel HD Graphics 510,Chrome OS,19980.0,Other
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,37242.72,SSD
+HP,Workstation,17.3,Full HD,Intel Core i7 7700HQ 2,8,500 ,Nvidia Quadro M1200,Windows 10,101657.7072,Other
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,137995.19999999998,SSD
+Toshiba,Notebook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,51841.44,SSD
+Acer,Netbook,11.6,Full HD,Intel Celeron Dual Core N3050 1,4,32 ,Intel HD Graphics,Windows 10,14332.32,Other
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,93186.72,SSD
+Asus,2 in 1 Convertible,12.5,Full HD,Intel Core M M3,4,64 ,Intel HD Graphics 515,Chrome OS,35644.32,Other
+Toshiba,Ultrabook,13.3,Full HD,Intel Core i7 6500U 2,16,512,Intel HD Graphics 520,Windows 10,100006.56,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,4,500 ,AMD Radeon 530,Windows 10,36709.92,Other
+Dell,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,1 ,Nvidia GeForce GTX 1050,Windows 10,43636.32,Other
+Lenovo,Notebook,15.6,Full HD,AMD A9-Series 9420 2,4,256,AMD Radeon 530,Windows 10,21258.72,SSD
+Lenovo,Notebook,15.6,Full HD,AMD A12-Series 9720P 3,8,1 ,AMD Radeon R7,Windows 10,22857.12,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1  +  1 ,Intel HD Graphics 620,Windows 10,33110.856,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,No OS,23976.0,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,42357.6,SSD
+Acer,2 in 1 Convertible,13.3,Full HD,Intel Core i5 8250U 1,8,256,Intel UHD Graphics 620,Windows 10,53226.72,SSD
+Lenovo,Workstation,15.6,Full HD,Intel Core i7 6500U 2,16,512,Nvidia Quadro M520M,Windows 7,98834.4,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 6300HQ 2,8,256,Intel HD Graphics 520,Windows 10,63456.48,SSD
+HP,Notebook,17.3,Full HD,AMD A10-Series 9620P 2,6,2 ,AMD Radeon 530,Windows 10,34898.932799999995,Other
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,66546.72,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i5 7440HQ 2,8,256,Nvidia GeForce 930MX,Linux,58021.92,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 620,Linux,38681.28,Other
+Asus,Notebook,14.0,Full HD,Intel Celeron Dual Core N3350 1,4,32 ,Intel HD Graphics 500,Windows 10,15877.44,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7300U 2,16,512,Intel HD Graphics 620,Windows 10,76012.44480000001,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Nvidia GeForce 920MX,Windows 10,45664.6896,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7300U 2,8,256,Intel HD Graphics 620,Windows 10,62817.12,SSD
+Lenovo,Notebook,15.6,Full HD,AMD A6-Series 7310 2GHz,4,500 ,AMD Radeon R4,Windows 10,15877.44,Other
+Mediacom,Notebook,14.0,Full HD,Intel Atom Z8350 1,4,32 ,Intel HD Graphics 400,Windows 10,14119.2,Other
+HP,Notebook,17.3,Full HD,Intel Core i7 7500U 2,8,256,Nvidia GeForce 930MX,Windows 10,63936.0,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 6500U 2,8,512,Intel HD Graphics 520,Windows 10,89864.1792,SSD
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,44574.048,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,79866.72,SSD
+Dell,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,32,1 +  1 ,Nvidia GeForce GTX 1070,Windows 10,194972.832,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,71847.0144,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Intel HD Graphics 620,No OS,26101.872,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 8250U 1,8,128 +  1 ,AMD Radeon 530,Windows 10,38308.32,SSD
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i3 7100U 2,4,1 ,Intel HD Graphics 620,Windows 10,34578.72,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,AMD Radeon R7 M445,Linux,31409.6256,Other
+HP,Notebook,15.6,Full HD,AMD A9-Series 9420 3GHz,4,1 ,AMD Radeon 520,Windows 10,26053.92,Other
+Acer,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,103096.8,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,12,1 ,Intel HD Graphics 620,Windows 10,34578.72,Other
+HP,Notebook,15.6,Full HD,AMD A9-Series A9-9420 3GHz,6,128 +  1 ,AMD Radeon 520,Windows 10,34632.0,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,29783.52,Other
+Lenovo,Notebook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,51148.8,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 7500U 2,4,1 ,Intel HD Graphics 620,Windows 10,41505.12,Other
+HP,Workstation,15.6,Full HD,Intel Core i7 7700HQ 2,16,256,Nvidia Quadro M2200,Windows 10,128884.32,SSD
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i5 8250U 1,8,1 ,Intel UHD Graphics 620,Windows 10,35111.52,Other
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,111593.8944,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,Windows 10,21887.424,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,128 +  1 ,Nvidia GeForce 940MX,Windows 10,64308.96,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,8,256,Intel HD Graphics 520,Windows 10,35431.2,SSD
+Toshiba,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,81784.8,SSD
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,53226.72,SSD
+Lenovo,Workstation,15.6,Full HD,Intel Core i7 7600U 2,16,1,Nvidia Quadro M520M,Windows 10,175770.72,SSD
+Acer,Notebook,14.0,Full HD,Intel Celeron Dual Core N3060 1,2,32 ,Intel HD Graphics 400,Chrome OS,17582.399999999998,Other
+Samsung,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,16,256,Intel HD Graphics 620,Windows 10,87858.72,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,8,256,Intel HD Graphics 520,Windows 10,28717.92,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,60031.1088,SSD
+HP,Workstation,17.3,Full HD,Intel Xeon E3,16,256,Nvidia Quadro M2000M,Windows 7,233845.92,SSD
+Lenovo,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,4,128,Intel HD Graphics 400,Windows 10,25308.0,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 6300U 2,8,256,Intel HD Graphics 520,Windows 10,101232.0,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i5 6300HQ 2,4,1 ,Nvidia GeForce GTX 950M,No OS,30849.12,Other
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i5 6200U 2,4,180,Intel HD Graphics 520,Windows 10,58394.88,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i7 7500U 2,4,256,Intel HD Graphics 620,Windows 10,45282.672,SSD
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i5 6260U 1,8,256,Intel HD Graphics 540,Windows 10,63882.72,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,58554.72,SSD
+HP,Workstation,15.6,Full HD,Intel Core i7 6700HQ 2,8,256,Nvidia Quadro M1000M,Windows 7,83170.08,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,152859.7872,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,31914.72,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,55837.44,SSD
+Dell,Ultrabook,12.5,Full HD,Intel Core i7 7600U 2,16,256,Intel HD Graphics 620,Windows 10,99047.52,SSD
+Google,Ultrabook,12.3,Full HD,Intel Core i5 7Y57 1,8,256,Intel HD Graphics 615,Chrome OS,83063.52,SSD
+Asus,Ultrabook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,60153.12,SSD
+Dell,Notebook,13.3,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,Windows 10,45234.72,Other
+Acer,Notebook,13.3,Full HD,Intel Core i5 6200U 2,4,128,Intel HD Graphics 520,Windows 10,34898.4,SSD
+Asus,Notebook,17.3,Full HD,Intel Pentium Quad Core N4200 1,4,1 ,Nvidia GeForce 920MX,Windows 10,25059.715199999995,Other
+Dell,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 960M,Windows 10,58554.72,SSD
+Samsung,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,85194.72,SSD
+Acer,Notebook,15.6,Full HD,Intel Pentium Quad Core N4200 1,4,1 ,Intel HD Graphics 505,Linux,15877.44,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,16,256,AMD Radeon R7 M445,Windows 10,62938.0656,SSD
+Samsung,2 in 1 Convertible,15.0,Full HD,Intel Core i7 7500U 2,16,256,AMD Radeon 540,Windows 10,95850.72,SSD
+Toshiba,Notebook,14.0,Full HD,Intel Core i5 6200U 2,4,128,Intel HD Graphics 520,Windows 10,54345.6,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1050,Windows 10,58554.72,Other
+HP,Ultrabook,12.5,Full HD,Intel Core i5 6200U 2,4,256,Intel HD Graphics 520,Windows 10,66280.31999999999,SSD
+Asus,2 in 1 Convertible,15.6,Full HD,Intel Core i7 7500U 2,12,2 ,Nvidia GeForce 940MX,Windows 10,44701.92,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 6820HQ 2,16,512,Nvidia Quadro M2000M,Windows 7,126273.6,SSD
+Acer,Notebook,14.0,Full HD,Intel Core i3 7100U 2,4,128,Intel HD Graphics 620,Windows 10,33886.08,SSD
+Razer,Gaming,14.0,Full HD,Intel Core i7 7700HQ 2,16,512,Nvidia GeForce GTX 1060,Windows 10,154458.72,SSD
+Asus,Notebook,15.6,Full HD,Intel Pentium Dual Core N4200 1,8,128,Intel HD Graphics 505,Windows 10,31003.632,SSD
+Dell,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,32,1 +  1 ,Nvidia GeForce GTX 1070M,Windows 10,191211.264,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,125208.0,SSD
+Toshiba,Ultrabook,14.0,Full HD,Intel Core i7 6600U 2,16,512,Nvidia GeForce 930M,Windows 10,93985.92,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Celeron Quad Core N3710 1,8,1 ,Intel HD Graphics 405,No OS,17529.12,Other
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,122490.72,SSD
+MSI,Gaming,14.0,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,100752.48,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,58021.92,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,4,1 ,Nvidia GeForce GTX 1050,Windows 10,53226.72,Other
+Acer,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,122490.72,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,256,Nvidia GeForce GTX 1050,Windows 10,52480.8,SSD
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX1060,Windows 10,71341.92,SSD
+Vero,Notebook,14.0,Full HD,Intel Celeron Dual Core N3350 1,4,32 ,Intel HD Graphics 500,Windows 10,10810.512,Other
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,104961.6,SSD
+Lenovo,2 in 1 Convertible,15.6,Full HD,Intel Core i5 7200U 2,8,256,AMD Radeon R7 M460,Windows 10,51095.52,SSD
+Apple,Ultrabook,12.0,Full HD,Intel Core M 1,8,512 ,Intel HD Graphics 5300,Mac OS X,62071.2,Other
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,124142.4,SSD
+Asus,Notebook,14.0,Full HD,Intel Celeron Dual Core N3350 1,4,32 ,Intel HD Graphics 500,Windows 10,15930.72,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,128,Intel HD Graphics 620,Windows 10,43156.8,SSD
+Lenovo,2 in 1 Convertible,13.9,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,71874.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,8,256,AMD Radeon R5 M420X,Windows 10,39373.92,SSD
+HP,Workstation,15.6,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia Quadro M2200,Windows 10,110017.872,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,58554.72,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,79866.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7300HQ 2,8,256,Nvidia GeForce GTX 1050,Windows 10,93186.72,SSD
+Dell,Netbook,11.6,Full HD,Intel Pentium Quad Core N4200 1,4,128,Intel HD Graphics 505,Windows 10,39640.32,SSD
+HP,Netbook,12.5,Full HD,Intel Core i5 7300U 2,8,256,Intel HD Graphics 620,Windows 10,74005.92,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,41558.4,Other
+HP,Notebook,15.6,Full HD,AMD A12-Series 9700P 2,8,2 ,AMD Radeon R7 Graphics,Windows 10,33513.119999999995,Other
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,512,Nvidia GeForce GTX 1050 Ti,Windows 10,89457.12,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Nvidia GeForce 920M,Windows 10,32447.52,Other
+HP,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,12,1 ,AMD Radeon RX 580,Windows 10,93186.72,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,512 +  1 ,Nvidia GeForce GTX 1070,Windows 10,128671.2,SSD
+Samsung,Ultrabook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,79866.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,Nvidia GeForce GT 940MX,Windows 10,51202.08,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,AMD Radeon R5 M420,Windows 10,42081.0768,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,99047.52,SSD
+Razer,Ultrabook,12.5,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,95850.72,SSD
+HP,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,4,16 ,Intel HD Graphics 400,Chrome OS,20512.8,Other
+Dell,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,133467.4656,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,40226.4,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,Windows 10,26101.872,Other
+Toshiba,Ultrabook,14.0,Full HD,Intel Core i5 7200U 2,4,128,Intel HD Graphics 620,Windows 10,58075.2,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,133146.72,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,256,Nvidia GeForce GTX 1050,Windows 10,63882.72,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i5 7200U 2,8,256 ,Intel HD Graphics 620,Windows 10,99900.0,Other
+Toshiba,Notebook,14.0,Full HD,Intel Pentium Dual Core 4405U 2,4,128,Intel HD Graphics 510,Windows 10,26586.72,SSD
+Asus,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,72354.23999999999,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,Windows 10,31168.8,Other
+Acer,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,4,32 ,Intel HD Graphics 400,Chrome OS,18914.4,Other
+Acer,Notebook,14.0,Full HD,Intel Core i3 7100U 2,8,128,Intel HD Graphics 620,Windows 10,32980.32,SSD
+Razer,Gaming,17.3,Full HD,Intel Core i7 7820HK 2,32,512,Nvidia GeForce GTX 1080,Windows 10,292986.72,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 6600U 2,16,512,Intel HD Graphics 520,Windows 10,111834.72,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Nvidia GeForce 920,Linux,27652.32,Other
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,63190.08,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 7300U 2,8,256,Intel HD Graphics 620,Windows 10,87912.0,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,147832.28639999998,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,128884.32,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,500 ,Intel HD Graphics 620,Windows 10,35644.32,Other
+Lenovo,Notebook,14.0,Full HD,Intel Celeron Quad Core N3160 1,4,16 ,Intel HD Graphics 400,Chrome OS,17316.0,Other
+Asus,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,128 ,Intel HD Graphics 620,Windows 10,31435.2,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,16,512 +  1 ,Nvidia GeForce GTX 1060,Windows 10,95850.72,SSD
+Dell,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,32,512 +  1 ,Nvidia GeForce GTX 1070,Windows 10,163723.57919999998,SSD
+HP,Notebook,17.3,Full HD,Intel Core i5 7200U 2,8,1 ,Nvidia GeForce 930MX,Windows 10,48484.8,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,128,Intel HD Graphics 620,Windows 10,38041.3872,SSD
+HP,Ultrabook,14.0,Full HD,Intel Core i7 6500U 2,8,512,Intel HD Graphics 520,Windows 7,99633.6,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,4,256,AMD Radeon R5 M420,Windows 10,39373.92,SSD
+HP,2 in 1 Convertible,11.6,Full HD,Intel Celeron Dual Core N3350 1,4,32 ,Intel HD Graphics 500,Chrome OS,32767.2,Other
+Asus,Ultrabook,13.3,Full HD,Intel Core i5 6200U 2,8,512,Nvidia GeForce 940M,Windows 10,54665.28,SSD
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,121318.56,SSD
+HP,Ultrabook,14.0,Full HD,Intel Core i7 6500U 2,8,512,Intel HD Graphics 520,Windows 10,78215.04,SSD
+HP,Notebook,15.6,Full HD,Intel Celeron Dual Core N3060 1,4,128,Intel HD Graphics 400,No OS,15930.72,SSD
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,101178.72,SSD
+Dell,Notebook,17.3,Full HD,Intel Core i7 7500U 2,8,1 ,AMD Radeon R7 M445,Linux,46087.2,Other
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 7700HQ 2,8,256,Nvidia GeForce GT 940MX,Windows 10,101391.84,SSD
+Asus,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Nvidia GeForce GTX 930MX,Windows 10,41931.36,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,128,Intel HD Graphics 620,Windows 10,50349.6,SSD
+Asus,Notebook,15.6,Full HD,Intel Pentium Quad Core N4200 1,4,1 ,Intel HD Graphics 505,Windows 10,23922.72,Other
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i7 7600U 2,8,256,Intel HD Graphics 620,Windows 10,136343.52,SSD
+Dell,Notebook,13.3,Full HD,Intel Core i5 6200U 2,8,1 ,Intel HD Graphics 520,Windows 10,34578.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,1 ,Intel HD Graphics 520,No OS,24988.32,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 620,Windows 10,45323.1648,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 7300U 2,8,256,AMD Radeon R7 M465,Windows 10,71874.72,SSD
+Toshiba,Notebook,13.3,Full HD,Intel Core i5 7200U 2,4,128,Intel HD Graphics 620,Windows 10,68464.8,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,1 ,Nvidia GeForce GTX 1050,No OS,54185.76,Other
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 7660U 2,16,512,Intel Iris Plus Graphics 640,Windows 10,119347.2,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,48484.8,Other
+Toshiba,Ultrabook,13.3,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,58341.6,SSD
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,103896.0,SSD
+Acer,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,48058.56,SSD
+Dell,Workstation,15.6,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia Quadro M620,Windows 10,94731.84,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,56210.4,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,AMD Radeon R5 M430,No OS,25521.12,Other
+Toshiba,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,73952.64,SSD
+Lenovo,Notebook,13.3,Full HD,Intel Core i3 7100U 2,4,180,Intel HD Graphics 620,Windows 10,39160.8,SSD
+Samsung,Ultrabook,15.0,Full HD,Intel Core i7 7500U 2,16,256,Nvidia GeForce 940MX,Windows 10,98514.72,SSD
+Dell,Ultrabook,12.5,Full HD,Intel Core i7 7600U 2,8,256,Intel HD Graphics 620,Windows 10,90043.2,SSD
+Asus,Notebook,15.6,Full HD,Intel Pentium Quad Core N4200 1,4,1 ,Intel HD Graphics 505,Linux,21258.1872,Other
+Xiaomi,Ultrabook,13.3,Full HD,Intel Core i5 6200U 2,8,256,Nvidia GeForce 940MX,Windows 10,49816.8,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,128 +  1 ,Nvidia GeForce 940MX,Windows 10,48618.0,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,44701.92,SSD
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,90576.0,SSD
+HP,2 in 1 Convertible,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,36486.14399999999,Other
+Asus,Notebook,14.1,Full HD,Intel Celeron Dual Core N3350 1,4,32 ,Intel HD Graphics 500,Windows 10,18541.44,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 6500U 2,8,1 ,Nvidia GeForce 940MX,Windows 10,35644.32,Other
+Dell,Notebook,15.6,Full HD,Intel Pentium Quad Core N3710 1,4,500 ,Intel HD Graphics,Windows 10,19660.32,Other
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,95850.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,1 ,AMD Radeon R5 M420X,Linux,24279.696,Other
+Asus,Gaming,17.3,Full HD,Intel Core i5 7300HQ 2,12,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,72988.272,SSD
+Acer,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,4,32 ,Intel HD Graphics 400,Chrome OS,15824.16,Other
+Lenovo,Notebook,17.3,Full HD,AMD A4-Series 7210 2,4,500 ,AMD Radeon R3,Windows 10,20193.12,Other
+HP,Notebook,14.0,Full HD,Intel Core i5 7200U 2,4,128,Intel HD Graphics 620,Windows 10,67399.2,SSD
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i7 7500U 2,16,256,Intel HD Graphics 620,Windows 10,74538.72,SSD
+Samsung,Ultrabook,15.0,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,90522.72,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,95850.72,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,16,512 +  2 ,Nvidia GeForce GTX 1060,Windows 10,141138.72,SSD
+Toshiba,Notebook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,78588.0,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1050Ti,Linux,49497.12,Other
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,Nvidia GeForce 930MX,Windows 10,47952.0,Other
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,1 ,AMD Radeon R5 M420X,Windows 10,32713.92,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7300U 2,8,500 ,Intel HD Graphics 620,Windows 10,49816.8,Other
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i7 7Y75 1,8,512,Intel HD Graphics 615,Windows 10,107257.968,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 6820HK 2,32,256 +  256,Nvidia GeForce GTX 980M,Windows 10,68145.12,SSD
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i7 7Y75 1,16,256,Intel HD Graphics 615,Windows 10,87858.72,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,8,256 ,Intel HD Graphics 620,Windows 10,109170.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,512,Intel HD Graphics 620,Windows 10,104588.1072,SSD
+LG,Ultrabook,15.6,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,111834.72,SSD
+HP,Netbook,12.5,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,79014.23999999999,SSD
+Acer,Notebook,15.6,Full HD,Intel Celeron Dual Core 3205U 1,4,16 ,Intel HD Graphics,Chrome OS,19127.52,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 6300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 960M,Windows 10,42037.92,SSD
+LG,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,101178.72,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i5 7440HQ 2,8,256,Intel HD Graphics 620,Windows 10,64202.4,SSD
+HP,Ultrabook,12.5,Full HD,Intel Core M 6Y75 1,8,240,Intel HD Graphics 515,Windows 10,165168.0,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 7500U 2,6,256,Nvidia GeForce 940MX,Windows 10,42037.92,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Nvidia GeForce 930MX,Windows 10,54291.78719999999,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,1 ,Intel HD Graphics 620,Windows 10,26586.72,Other
+Lenovo,Notebook,13.3,Full HD,Intel Core i5 7200U 2,4,128,Intel HD Graphics 620,Windows 10,46939.68,SSD
+HP,Notebook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,51148.8,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,85194.72,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,71874.72,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,59668.804800000005,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,AMD Radeon R5 M420,Windows 10,36496.2672,Other
+HP,Ultrabook,15.6,Full HD,Intel Core i7 6500U 2,8,256,AMD Radeon R7 M365X,Windows 10,69103.62719999999,SSD
+HP,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,61218.72,SSD
+Toshiba,Notebook,15.6,Full HD,Intel Core i7 6600U 2,16,256,Nvidia GeForce 930M,Windows 10,105228.0,SSD
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,8,512,Intel HD Graphics 620,Windows 10,97236.0,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,38889.072,Other
+Lenovo,Ultrabook,12.5,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,87912.0,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,62071.2,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Intel HD Graphics 620,Windows 10,37725.4368,Other
+HP,Notebook,14.0,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,61218.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Pentium Quad Core N4200 1,4,1 ,Intel HD Graphics 505,Windows 10,16463.52,Other
+HP,Ultrabook,12.5,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,84129.12,Other
+HP,Notebook,15.6,Full HD,Intel Celeron Dual Core N3060 1,4,1 ,Intel HD Graphics 400,No OS,15392.592,Other
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i7 6560U 2,16,1,Intel Iris Graphics 540,Windows 10,95850.72,SSD
+Toshiba,Notebook,14.0,Full HD,Intel Core i5 6200U 2,4,128,Intel HD Graphics 520,Windows 10,58874.4,SSD
+HP,Netbook,12.5,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,88924.31999999999,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,1 ,Intel HD Graphics 520,Windows 10,29762.208,Other
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,63882.72,SSD
+Dell,Ultrabook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,87325.92,SSD
+Dell,Gaming,17.3,Full HD,Intel Core i7 6820HK 2,16,512 +  1 ,Nvidia GeForce GTX 1080,Windows 10,146946.24,SSD
+HP,Gaming,17.3,Full HD,Intel Core i5 6300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 965M,Windows 10,74538.72,SSD
+Asus,Notebook,17.3,Full HD,Intel Pentium Quad Core N3710 1,4,1 ,Nvidia GeForce 920MX,Windows 10,28238.4,Other
+Acer,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,32980.32,Other
+Toshiba,Notebook,15.6,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,59620.32,SSD
+Lenovo,2 in 1 Convertible,11.3,Full HD,Intel Core M m7,8,256,Intel HD Graphics 515,Windows 10,69210.72,SSD
+Lenovo,Gaming,15.6,Full HD,AMD FX 8800P 2,16,512 +  1 ,AMD Radeon R9 M385,Windows 10,53226.72,SSD
+Dell,Ultrabook,12.5,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics,Windows 10,78438.816,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,Nvidia GeForce 920MX,No OS,36496.8,Other
+Dell,Notebook,17.3,Full HD,Intel Core i3 6006U 2,4,1 ,AMD Radeon R7 M445,Windows 10,35111.52,Other
+Acer,Notebook,14.0,Full HD,Intel Celeron Dual Core N3060 1,4,32 ,Intel HD Graphics 400,Chrome OS,18594.72,Other
+HP,Workstation,15.6,Full HD,Intel Core i7 6820HQ 2,8,8,Nvidia Quadro M1000M,Windows 10,119826.72,SSD
+Dell,Ultrabook,14.0,Full HD,Intel Core i7 7600U 2,8,256,Intel HD Graphics 620,Windows 10,94572.0,SSD
+Toshiba,Notebook,13.3,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 7,77788.8,SSD
+Asus,2 in 1 Convertible,12.5,Full HD,Intel Core M M7,8,64 ,Intel HD Graphics 515,Chrome OS,61751.52,Other
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 6600U 2,8,256,Intel HD Graphics 520,Windows 10,79333.3872,SSD
+Dell,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,512 +  1 ,Nvidia GeForce GTX 1070,Windows 10,168045.12,SSD
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7Y54 1,8,256,Intel HD Graphics 615,Windows 10,101178.72,SSD
+HP,2 in 1 Convertible,11.6,Full HD,Intel Pentium Quad Core N4200 1,4,256,Intel HD Graphics 505,Windows 10,41292.0,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,67559.04,SSD
+Acer,2 in 1 Convertible,11.6,Full HD,Intel Celeron Dual Core N3060 1,4,32 ,Intel HD Graphics 400,Chrome OS,20725.92,Other
+Toshiba,Notebook,13.3,Full HD,Intel Core i5 6300U 2,8,256,Intel HD Graphics 520,Windows 10,81784.8,SSD
+Lenovo,Ultrabook,12.5,Full HD,Intel Core i5 7300U 2,8,256,Intel HD Graphics 620,Windows 10,93772.8,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i5 7200U 2,12,128 +  1 ,Nvidia GeForce GTX 950M,Windows 10,53759.52,SSD
+Toshiba,Ultrabook,12.5,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,95371.2,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Nvidia GeForce 930MX,Windows 10,45101.52,Other
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,1 ,AMD Radeon R5 M430,Linux,24808.2336,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,43956.0,Other
+HP,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,500 ,Intel HD Graphics 620,Windows 10,36496.8,Other
+Dell,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,32,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,167778.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,6,256,Nvidia GeForce 920MX,Windows 10,37029.6,SSD
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i7 7Y75 1,16,512,Intel HD Graphics 615,Windows 10,101178.72,SSD
+Dell,Ultrabook,14.0,Full HD,Intel Core i7 6600U 2,8,256,Intel HD Graphics 520,Windows 10,104587.57439999998,SSD
+Dell,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,32,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,149184.0,SSD
+Toshiba,Notebook,14.0,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,62870.4,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,109218.672,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,128 +  1 ,Nvidia GeForce 930MX,Windows 10,52161.12,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 6200U 2,4,508 ,Intel HD Graphics 520,Windows 7,53386.56,Other
+Asus,2 in 1 Convertible,15.6,Full HD,Intel Core i7 7500U 2,16,512 +  2 ,Nvidia GeForce GTX 950M,Windows 10,95850.72,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,6,1 ,Intel HD Graphics 620,Windows 10,30849.12,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,93186.72,SSD
+Dell,2 in 1 Convertible,15.6,Full HD,Intel Core i7 7500U 2,12,512,Intel HD Graphics 620,Windows 10,69210.72,SSD
+Toshiba,Notebook,13.3,Full HD,Intel Core i5 6200U 2,4,128,Intel HD Graphics 520,Windows 7,63669.6,SSD
+Lenovo,Notebook,15.6,Full HD,AMD A12-Series 9720P 3,6,256,AMD Radeon 530,Windows 10,29250.72,SSD
+Fujitsu,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,256,Intel HD Graphics 520,Windows 10,34578.72,SSD
+Toshiba,Notebook,14.0,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,48751.2,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,AMD Radeon R5 M430,Windows 10,31914.72,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 620,Windows 10,42943.68,Other
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,63349.92,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,AMD Radeon R7 M445,Windows 10,39906.72,Other
+Dell,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,128,Intel HD Graphics 620 ,Windows 10,59620.32,SSD
+HP,Netbook,12.5,Full HD,Intel Core M 6Y75 1,8,512,Intel HD Graphics 515,Windows 10,101658.24,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,128 +  1 ,AMD Radeon 520,Windows 10,26586.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,4,128,Intel HD Graphics 500,No OS,14418.6336,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,71874.72,SSD
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,47365.92,SSD
+Asus,Notebook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,61272.0,SSD
+HP,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,71874.72,SSD
+Acer,Notebook,15.6,Full HD,Intel Pentium Quad Core N4200 1,4,500 ,Intel HD Graphics 505,Windows 10,20246.4,Other
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,95850.72,SSD
+HP,Ultrabook,14.0,Full HD,Intel Core i7 7500U 2,8,512,Intel HD Graphics 620,Windows 10,111301.92,SSD
+Acer,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,67132.8,SSD
+HP,Notebook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,63349.92,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,128,Intel HD Graphics 620,Windows 10,29144.16,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,41505.12,Other
+Toshiba,Notebook,13.3,Full HD,Intel Core i5 6200U 2,4,128,Intel HD Graphics 520,Windows 10,63669.6,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 6300U 2,4,256,Intel HD Graphics 520,Windows 10,58607.46719999999,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,64202.4,SSD
+HP,Ultrabook,14.0,Full HD,Intel Core i7 6600U 2,8,256,Intel HD Graphics 520,Windows 7,77202.72,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Nvidia GeForce 930MX,Windows 10,55904.5728,SSD
+HP,Notebook,14.0,Full HD,Intel Core i3 7100U 2,4,500 ,Intel HD Graphics 620,Windows 10,36443.52,Other
+Dell,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,1.0 ,Nvidia GeForce GTX 1050,Windows 10,50562.72,Other
+HP,Ultrabook,12.5,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,81997.92,Other
+HP,Notebook,14.0,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,84715.2,SSD
+HP,Ultrabook,14.0,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,100550.5488,SSD
+HP,Notebook,13.3,Full HD,Intel Core i3 7100U 2,4,500 ,Intel HD Graphics 620,Windows 10,42624.0,Other
+Toshiba,Notebook,13.3,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,64468.8,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,256,Intel HD Graphics 620,Windows 10,41025.0672,SSD
+Lenovo,Notebook,17.3,Full HD,Intel Core i7 6820HQ 2,16,512,Nvidia Quadro 3000M,Windows 7,158135.04,SSD
+Toshiba,Notebook,14.0,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,79387.2,SSD
+HP,Notebook,14.0,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,118761.12,SSD
+Dell,2 in 1 Convertible,15.6,Full HD,Intel Core i3 6100U 2,4,1 ,Intel HD Graphics 520,Windows 10,42410.3472,Other
+Toshiba,Ultrabook,13.3,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,84715.2,SSD
+HP,Notebook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,61218.72,SSD
+HP,Notebook,14.0,Full HD,Intel Core i7 7500U 2,8,256,Nvidia GeForce 930MX,Windows 10,63159.7104,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 6300U 2,8,500 ,Intel HD Graphics 520,Windows 10,55754.3232,Other
+HP,Ultrabook,12.5,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,83063.52,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,63349.92,Other
+HP,Notebook,14.0,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,56476.8,Other
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,86526.72,SSD
+HP,Notebook,17.3,Full HD,Intel Core i5 7200U 2,8,256,Nvidia GeForce 930MX,Windows 10,57542.4,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,51841.44,SSD
+Acer,Notebook,15.6,Full HD,AMD A9-Series 9420 3GHz,6,1 ,AMD Radeon R5,Windows 10,21791.52,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,63499.10399999999,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 7,63669.6,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,65480.5872,SSD
+HP,Ultrabook,12.5,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,71874.72,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,39533.76,Other
+Toshiba,Ultrabook,14.0,Full HD,Intel Core i7 6600U 2,8,256,Intel HD Graphics 520,Windows 10,91908.0,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 6300U 2,8,256,Intel HD Graphics 520,Windows 7,56633.976,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,53839.9728,SSD
+Lenovo,2 in 1 Convertible,15.6,Full HD,Intel Core i7 6500U 2,4,256,Intel HD Graphics 520,Windows 10,45128.16,SSD
+Vero,Notebook,14.0,Full HD,Intel Atom X5,2,32 ,Intel HD Graphics 400,Windows 10,11231.424,Other
+Toshiba,Notebook,15.6,Full HD,Intel Core i7 6500U 2,16,256,Nvidia GeForce 930M,Windows 10,75924.0,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,55922.688,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,53280.0,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 6300U 2,8,256 +  500 ,Intel HD Graphics 520,Windows 10,112065.9552,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 7,78268.31999999999,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 6820HK 2,16,256 +  1 ,Nvidia GeForce GTX 980M,Windows 10,82351.6992,SSD
+Lenovo,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 980M,Windows 10,122010.66719999998,SSD
+Asus,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,4,16 ,Intel HD Graphics 400,Chrome OS,15339.311999999998,Other
+Lenovo,Notebook,14.0,Full HD,Intel Core i7 6600U 2,16,256,Intel HD Graphics 520,Windows 7,139593.6,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,Nvidia GeForce 940MX,Windows 10,52161.12,Other
+Dell,2 in 1 Convertible,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,58288.32,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,256,Intel HD Graphics 620,Windows 10,52161.12,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,16,1,Intel HD Graphics 620,Windows 10,120093.12,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6100U 2,4,500 ,Intel HD Graphics 520,Windows 10,37570.392,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,No OS,26586.72,Other
+Acer,Notebook,15.6,Full HD,AMD A8-Series 7410 2,8,1 ,AMD Radeon R5,Windows 10,23922.72,Other
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i7 7500U 2,12,256,Intel HD Graphics 620,Windows 10,69210.72,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,96916.32,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,57009.6,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,16,1 ,Nvidia GeForce GTX 965M,No OS,53173.44,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Intel HD Graphics,Windows 10,29783.52,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,16,2 ,AMD Radeon R7 M445,Windows 10,52746.6672,Other
+MSI,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,102777.12,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,77682.23999999999,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 6820HK 2,64,1,Nvidia GeForce GTX 980 ,Windows 10,211788.0,SSD
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,42517.9728,SSD
+Dell,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 970M,Windows 10,70809.12,SSD
+Apple,Ultrabook,12.0,Full HD,Intel Core M 1,8,256 ,Intel HD Graphics 515,Mac OS X,69264.0,Other
+Dell,Notebook,15.6,Full HD,Intel Core i3 6100U 2,4,500 ,Intel HD Graphics 520,Windows 10,25679.8944,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,63882.72,Other
+HP,Ultrabook,12.5,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 7,63882.72,SSD
+HP,Notebook,13.3,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,58075.2,SSD
+Lenovo,Ultrabook,12.5,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,91294.7472,SSD
+Lenovo,Notebook,17.3,Full HD,Intel Core i5 6200U 2,8,1.0 ,AMD Radeon R5 M330,Windows 10,35111.52,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 6300HQ 2,4,1 ,Nvidia GeForce GTX 950M,Windows 10,52054.56,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,133146.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 10,28771.2,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 7,50083.2,Other
+Lenovo,Ultrabook,12.5,Full HD,Intel Core M 6Y75 1,8,512,Intel HD Graphics 515,Windows 10,74538.72,SSD
+Lenovo,Gaming,17.3,Full HD,Intel Core i7 6820HK 2,32,512 +  1.0 ,Nvidia GeForce GTX 980M,Windows 10,172627.19999999998,SSD
+Lenovo,2 in 1 Convertible,10.1,Full HD,Intel Atom x5,4,64 ,Intel HD Graphics 400,Windows 10,34433.2656,Other
+HP,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,109170.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,39960.0,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 7,54931.14719999999,Other
+HP,Workstation,15.6,Full HD,Intel Core i7 6500U 2,8,256,AMD FirePro W4190M,Windows 7,79653.59999999999,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 6200U 2,8,180,Intel HD Graphics 520,Windows 7,63882.72,SSD
+HP,Notebook,13.3,Full HD,Intel Pentium Dual Core 4405Y 1,4,32 ,Intel HD Graphics 515,Chrome OS,32767.2,Other
+Acer,Notebook,15.6,Full HD,AMD A8-Series 7410 2,4,500 ,AMD Radeon R5,Windows 10,20619.36,Other
+Dell,Notebook,15.6,Full HD,Intel Pentium Quad Core N3700 1,4,500 ,Intel HD Graphics,Linux,20965.1472,Other
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Intel HD Graphics 520,No OS,18434.3472,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,8,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,85194.72,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 8250U 1,4,256,AMD Radeon 530,Windows 10,43601.688,SSD
+HP,Netbook,12.5,Full HD,Intel Core i5 6200U 2,4,128,Intel HD Graphics 520,Windows 7,85194.72,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256 +  1 ,Nvidia GeForce GTX 950M,Windows 10,42570.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,AMD Radeon R7 M445,Windows 10,34035.264,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,8,256,Nvidia GeForce GTX 965M,Windows 10,85194.72,SSD
+HP,Notebook,15.6,Full HD,Intel Pentium Quad Core N3710 1,4,1 ,Intel HD Graphics 405,Windows 10,26640.0,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 980M,Windows 10,122490.72,SSD
+Dell,Ultrabook,12.5,Full HD,Intel Core i3 6100U 2,4,500 ,Intel HD Graphics 520,Windows 7,60480.792,Other
+Dell,Ultrabook,12.5,Full HD,Intel Core i3 6100U 2,4,128,Intel HD Graphics 520,Windows 7,62176.1616,SSD
+Acer,Notebook,15.6,Full HD,Intel Celeron Dual Core 3205U 1,4,16,Intel HD Graphics,Chrome OS,11135.52,SSD
+HP,Workstation,17.3,Full HD,Intel Core i7 6700HQ 2,8,1 ,AMD FirePro W6150M,Windows 7,154458.72,Other
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,512,Nvidia GeForce GTX 1050 Ti,Windows 10,63882.72,SSD
+Dell,Ultrabook,12.5,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 7,75289.968,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 960M,Windows 10,80516.20319999999,SSD
+Lenovo,2 in 1 Convertible,15.6,Full HD,Intel Core i5 6200U 2,4,256,Intel HD Graphics 520,Windows 10,46193.76,SSD
+HP,Notebook,15.6,Full HD,AMD A6-Series 9220 2,4,1 ,AMD Radeon R4,Windows 10,21205.44,Other
+Asus,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 960M,Windows 10,71341.92,SSD
+HP,Notebook,13.3,Full HD,Intel Core M 6Y54 1,8,256,Intel HD Graphics 515,Windows 10,90522.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,AMD Radeon R5 M315,Windows 7,40980.312,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,128,Intel HD Graphics 520,Windows 10,22857.12,SSD
+HP,Ultrabook,13.3,Full HD,Intel Core i7 6500U 2,8,512,Intel HD Graphics 520,Windows 10,104908.32,SSD
+Lenovo,2 in 1 Convertible,10.1,Full HD,Intel Atom x5,4,64 ,Intel HD Graphics 400,Android,29250.72,Other
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 7560U 2,8,256,Intel Iris Plus Graphics 640,Windows 10,73473.12,SSD
+Lenovo,Gaming,17.3,Full HD,Intel Core i7 6820HK 2,16,256 +  1.0 ,Nvidia GeForce GTX 980M,Windows 10,146519.46719999998,SSD
+Razer,Ultrabook,12.5,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,54825.12,SSD
+Toshiba,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,118601.28,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 960M,Windows 10,69929.4672,SSD
+Vero,Notebook,13.3,Full HD,Intel Atom X5,4,32 ,Intel HD Graphics 400,Windows 10,10442.88,Other
+HP,Notebook,13.3,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,90043.2,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 7,80612.64,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Linux,27899.0064,Other
+Asus,Notebook,15.6,Full HD,Intel Core i3 7100U 2,4,1 ,Intel HD Graphics 620,Windows 10,23176.8,Other
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,88924.31999999999,SSD
+Lenovo,2 in 1 Convertible,10.1,Full HD,Intel Atom x5,4,64 ,Intel HD Graphics 400,Windows 10,25521.12,Other
+HP,Ultrabook,12.5,Full HD,Intel Core i5 6300U 2,8,256,Intel HD Graphics 520,Windows 7,100965.6,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1060,No OS,52693.92,SSD
+HP,Gaming,17.3,Full HD,Intel Core i5 6300HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,60153.12,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,2 ,Intel HD Graphics 620,Windows 10,33513.119999999995,Other
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 6600U 2,8,512,Nvidia Quadro M500M,Windows 7,109244.2464,SSD
+Asus,Notebook,14.0,Full HD,Intel Celeron Dual Core N3350 1,4,32 ,Intel HD Graphics 500,Windows 10,14811.84,Other
+HP,Ultrabook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,40066.56,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Nvidia GeForce 940MX,Windows 10,32820.48,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 6500U 2,16,1.0 ,AMD Radeon R7 M360,Windows 10,58554.72,Other
+HP,Workstation,17.3,Full HD,Intel Core i7 6700HQ 2,8,256,Nvidia Quadro M3000M,Windows 7,210424.032,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,1 ,AMD Radeon R7 M445,Windows 10,41771.52,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 6820HQ 2,16,256 +  1 ,Nvidia GeForce GTX 980M,Windows 10,127818.72,SSD
+HP,Ultrabook,15.6,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 7,115709.2416,SSD
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 6600U 2,16,512,Intel HD Graphics 520,Windows 10,130003.2,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,60888.384,SSD
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i5 6300U 2,8,256,Intel HD Graphics 520,Windows 10,86793.12,SSD
+HP,Workstation,15.6,Full HD,Intel Core i7 6700HQ 2,8,256,Nvidia Quadro M1000M,Windows 7,118761.12,SSD
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i7 6600U 2,8,256,Intel HD Graphics 520,Windows 10,95850.72,SSD
+HP,Workstation,15.6,Full HD,Intel Core i7 6700HQ 2,8,256,Nvidia Quadro M1000M,Windows 7,101178.72,SSD
+HP,Ultrabook,12.5,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 7,122381.49599999998,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Nvidia GeForce 940MX,Windows 10,53807.472,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 7,84129.12,SSD
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,124621.92,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,1 ,Intel HD Graphics 520,No OS,18061.92,Other
+HP,Notebook,15.6,Full HD,AMD E-Series 7110 1,4,500 ,AMD Radeon R2 Graphics,Windows 10,15824.16,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 6200U 2,8,1 ,AMD Radeon R5 M330,No OS,31914.72,Other
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1050Ti,Windows 10,63882.72,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 6300HQ 2,8,256,Nvidia GeForce 960M,Windows 10,119916.2304,SSD
+HP,Notebook,15.6,Full HD,AMD A6-Series A6-9220 2,4,256,AMD Radeon 520,Windows 10,25515.2592,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,79536.38399999999,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 6600U 2,12,512,Intel HD Graphics 520,Windows 7,122490.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 6200U 2,8,1.0 ,AMD Radeon R5 M330,Windows 10,42010.7472,Other
+HP,2 in 1 Convertible,13.3,Full HD,Intel Core i7 6600U 2,8,512,Intel HD Graphics 520,Windows 10,108744.48,SSD
+Lenovo,Ultrabook,14.0,Full HD,Intel Core i7 6600U 2,8,256,Intel HD Graphics 520,Windows 7,79866.72,SSD
+MSI,Gaming,14.0,Full HD,Intel Core i7 6700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 970M,Windows 10,94252.32,SSD
+HP,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,1 ,Nvidia GeForce GTX 1050,Windows 10,47898.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2,8,1 ,Intel HD Graphics 520,Windows 10,24455.52,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,No OS,25414.0272,Other
+Dell,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,79813.44,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,74059.2,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Nvidia GeForce 920MX ,Windows 10,24935.04,Other
+HP,Notebook,14.0,Full HD,Intel Celeron Dual Core N3060 1,2,32 ,Intel HD Graphics 400,Windows 10,13266.72,Other
+MSI,Gaming,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,Nvidia GeForce GTX 1050,Windows 10,44701.92,Other
+HP,Notebook,15.6,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,36177.12,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 8550U 1,16,512,Intel UHD Graphics 620,Windows 10,61751.52,SSD
+Asus,Notebook,15.6,Full HD,Intel Celeron Dual Core N3050 1,4,500 ,Intel HD Graphics,Windows 10,19660.32,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,No OS,21205.44,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,Nvidia GeForce 940MX,No OS,37775.52,Other
+Asus,Notebook,14.0,Full HD,Intel Core i3 7100U 2,4,256,Intel HD Graphics 620,Windows 10,40972.32,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 6500U 2,4,1.0 ,Intel HD Graphics 520,Windows 7,43956.0,Other
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,16,512,Nvidia GeForce GTX 960,Windows 10,69530.4,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 970M,Windows 10,114731.5536,SSD
+HP,Notebook,15.6,Full HD,Intel Core i3 6100U 2,4,500 ,Intel HD Graphics 520,Windows 10,34632.0,Other
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,87219.36,SSD
+Lenovo,Ultrabook,15.6,Full HD,Intel Core i7 7500U 2,6,256,Nvidia GeForce 920M,Windows 10,44275.68,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,256,Nvidia GeForce GT 940MX,Linux,47686.1328,SSD
+Acer,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 2GHz,4,500 ,Intel HD Graphics 500,Windows 10,17742.239999999998,Other
+HP,Notebook,15.6,Full HD,Intel Core i7 6700HQ 2,6,1 ,Nvidia GeForce GTX 960M,Windows 10,42570.72,Other
+Asus,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,8,256 +  1 ,Nvidia GeForce GTX 960M,Windows 10,48431.52,SSD
+Dell,2 in 1 Convertible,15.6,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,62817.12,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,256,Nvidia GeForce 940MX,Windows 10,36816.48,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i5 6300U 2,8,256,Intel HD Graphics 520,Linux,58554.72,SSD
+Acer,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,138474.72,SSD
+Lenovo,Gaming,15.6,Full HD,Intel Core i5 7300HQ 2,8,1 ,Nvidia GeForce GTX 1050,Windows 10,43636.32,Other
+Samsung,2 in 1 Convertible,12.3,Full HD,Samsung Cortex A72&A53 2,4,32 ,ARM Mali T860 MP4,Chrome OS,35111.52,Other
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,25840.8,Other
+Apple,Ultrabook,12.0,Full HD,Intel Core M 1,8,256 ,Intel HD Graphics 5300,Mac OS X,61964.64,Other
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,63882.72,SSD
+HP,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,12,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,70702.56,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,AMD Radeon R5 M430,No OS,19607.04,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,16,512 +  1 ,Nvidia GeForce GTX 980M,Windows 10,114552.0,SSD
+Acer,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 2GHz,4,1 ,Intel HD Graphics 500,Linux,14492.16,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,109165.392,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,128,AMD Radeon R7 M440,Windows 10,26586.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 6500U 2,8,500 ,Nvidia GeForce 920MX,No OS,33513.119999999995,Other
+Dell,2 in 1 Convertible,15.6,Full HD,Intel Core i7 8550U 1,16,512,Intel UHD Graphics 620,Windows 10,68464.8,SSD
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,142790.4,SSD
+Asus,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,8,1 ,Nvidia GeForce GTX 1060,Windows 10,62284.32,Other
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,AMD Radeon R7 M445,Windows 10,47365.92,SSD
+HP,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,30849.12,SSD
+Lenovo,Notebook,15.6,Full HD,AMD E-Series 9000 2,4,500 ,AMD Radeon R2 Graphics,Windows 10,15930.72,Other
+Acer,Notebook,17.3,Full HD,Intel Core i3 6006U 2,8,1 ,Nvidia GeForce 940MX,Windows 10,33513.119999999995,Other
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,130482.72,SSD
+Apple,Ultrabook,12.0,Full HD,Intel Core M 1,8,512 ,Intel HD Graphics 515,Mac OS X,68145.12,Other
+Asus,Notebook,15.6,Full HD,Intel Core i7 7700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,93186.72,SSD
+MSI,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,103842.1872,SSD
+Dell,2 in 1 Convertible,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,Windows 10,53226.72,SSD
+Asus,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,103842.72,SSD
+Acer,Netbook,11.6,Full HD,Intel Celeron Dual Core 3205U 1,2,32,Intel HD Graphics,Chrome OS,9270.72,SSD
+Acer,Notebook,17.3,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Nvidia GeForce 940MX,Windows 10,31861.44,Other
+Lenovo,Notebook,17.3,Full HD,Intel Core i5 7200U 2,8,1 ,Intel HD Graphics 620,No OS,28717.92,Other
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 960<U+039C>,Windows 10,67772.16,SSD
+Acer,2 in 1 Convertible,14.0,Full HD,Intel Core i7 7Y75 1,8,256,Intel HD Graphics 615,Windows 10,61218.72,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 6600U 2,8,256,Intel HD Graphics 520,Windows 10,81465.12,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1060,Windows 10,78647.1408,SSD
+HP,Notebook,15.6,Full HD,AMD A12-Series 9720P 2,6,1 ,AMD Radeon 530,Windows 10,28185.12,Other
+Dell,Ultrabook,12.5,Full HD,Intel Core i5 6300U 2,8,256,Intel HD Graphics 520,Windows 7,91288.3536,SSD
+Dell,2 in 1 Convertible,15.0,Full HD,Intel Core i3 7100U 2,4,500 ,Intel HD Graphics 620,Windows 10,27119.52,Other
+Asus,Notebook,15.6,Full HD,Intel Pentium Quad Core N3710 1,4,1 ,Intel HD Graphics 405,Windows 10,16463.52,Other
+Dell,Ultrabook,13.3,Full HD,Intel Core i7 7500U 2,8,256,Intel HD Graphics 620,Windows 10,78694.56,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 7200U 2,4,1 ,Intel HD Graphics 520,Linux,27804.7008,Other
+Lenovo,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 960M,Windows 10,54825.12,SSD
+MSI,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 1050,Windows 10,61218.72,SSD
+Lenovo,Netbook,12.5,Full HD,Intel Core i7 6500U 2,16,512,Intel HD Graphics 520,Windows 10,87912.0,SSD
+Razer,Gaming,14.0,Full HD,Intel Core i7 7700HQ 2,16,1,Nvidia GeForce GTX 1060,Windows 10,186426.72,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 7100U 2,8,1 ,Intel HD Graphics 620,Windows 10,24988.8528,Other
+MSI,Gaming,17.3,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1060,Windows 10,85141.44,SSD
+Apple,Ultrabook,11.6,Full HD,Intel Core i5 1,4,256 ,Intel HD Graphics 6000,Mac OS X,51095.52,Other
+HP,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,1 ,Intel HD Graphics 520,Windows 10,25467.84,Other
+HP,Ultrabook,14.0,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 7,117119.5632,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i5 6200U 2,4,500 ,Intel HD Graphics 520,Windows 7,39267.36,Other
+MSI,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 960M,Windows 10,62284.32,SSD
+Lenovo,Notebook,13.3,Full HD,Intel Core i7 7500U 2,16,512,Intel HD Graphics 620,Windows 10,79866.72,SSD
+Lenovo,Notebook,15.6,Full HD,AMD A12-Series 9720P 3,6,256,AMD Radeon 530,Windows 10,31838.5296,SSD
+Asus,Ultrabook,13.3,Full HD,Intel Core i7 6500U 2,8,256,Intel HD Graphics 520,Windows 10,68198.4,SSD
+Acer,Notebook,15.6,Full HD,Intel Core i3 6006U 2,4,500 ,Intel HD Graphics 520,Linux,19276.704,Other
+Dell,2 in 1 Convertible,17.3,Full HD,Intel Core i7 7500U 2,16,512,Nvidia GeForce 940MX,Windows 10,95850.72,SSD
+HP,Notebook,14.0,Full HD,Intel Core i5 6200U 2,4,256,Intel HD Graphics 520,Windows 7,58607.46719999999,SSD
+Asus,Gaming,15.6,Full HD,Intel Core i7 7700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1050 Ti,Windows 10,85248.0,SSD
+Dell,Notebook,14.0,Full HD,Intel Core i5 7200U 2,4,500 ,Intel HD Graphics 620,Windows 10,46620.0,Other
+Asus,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,16,256 +  1 ,Nvidia GeForce GTX 1070,Windows 10,123876.0,SSD
+Lenovo,Notebook,15.6,Full HD,Intel Core i5 7200U 2,8,256,Intel HD Graphics 620,No OS,30529.44,SSD
+Dell,2 in 1 Convertible,13.3,Full HD,Intel Core i5 7Y54 1,8,256,Intel HD Graphics 615,Windows 10,96596.64,SSD
+Dell,Notebook,15.6,Full HD,Intel Pentium Quad Core N3710 1,4,500 ,Intel HD Graphics,Linux,17262.72,Other
+HP,Notebook,15.6,Full HD,AMD A6-Series 9220 2,4,500 ,AMD Radeon R4 Graphics,Windows 10,21258.72,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i3 6100U 2,6,128,Nvidia GeForce 920MX,Windows 10,30316.32,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Core i5 6200U 2,8,256,Intel HD Graphics 520,Windows 10,57116.16,SSD
+Dell,Notebook,15.6,Full HD,Intel Pentium Quad Core N3700 1,4,500 ,Intel HD Graphics,Windows 10,23655.7872,Other
+Asus,Notebook,15.6,Full HD,Intel Celeron Dual Core N3350 1,4,1 ,Intel HD Graphics 500,Windows 10,18061.92,Other
+Asus,Gaming,17.3,Full HD,Intel Core i7 6700HQ 2,16,128 +  1 ,Nvidia GeForce GTX 970M,Windows 10,101232.0,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 6006U 2GHz,4,500 ,Intel HD Graphics 520,Windows 10,26107.2,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 6500U 2,8,1.0 ,AMD Radeon R5 M330,Windows 7,47685.6,Other
+MSI,Gaming,15.6,Full HD,Intel Core i7 6700HQ 2,8,128 +  1 ,Nvidia GeForce GTX 960M,Windows 10,65481.12,SSD
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i5 6200U 2,4,128,Intel HD Graphics 520,Windows 10,44382.7728,SSD
+Asus,Ultrabook,13.3,Full HD,Intel Core M 6Y30 0,8,512,Intel HD Graphics 515,Windows 10,38841.12,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 7100U 2,6,1 ,Intel HD Graphics 620,Windows 10,24455.52,Other
+Acer,Notebook,15.6,Full HD,Intel Celeron Dual Core N3060 1,4,500 ,Intel HD Graphics 400,Linux,15397.92,Other
+Dell,Notebook,15.6,Full HD,Intel Celeron Dual Core N3050 1,2,500 ,Intel HD Graphics,Windows 10,20193.12,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 6700HQ 2,8,1 ,Nvidia GeForce GTX 960M,Windows 10,47898.72,Other
+HP,Notebook,15.6,Full HD,AMD A9-Series 9410 2,6,1.0 ,AMD Radeon R7 M440,Windows 10,29303.4672,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,AMD Radeon R5 M430,Linux,42943.1472,Other
+HP,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,2,32 ,Intel HD Graphics 400,Windows 10,11135.52,Other
+Asus,Notebook,15.6,Full HD,Intel Core i7 6500U 2,4,500 ,Nvidia GeForce 920M,Windows 10,38378.6496,Other
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 6500U 2,4,128,Intel HD Graphics 520,Windows 10,33992.64,SSD
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i7 6500U 2,16,512,Intel HD Graphics 520,Windows 10,79866.72,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Celeron Dual Core N3050 1,2,64 ,Intel HD Graphics,Windows 10,12201.12,Other
+HP,Notebook,15.6,Full HD,Intel Core i7 6500U 2,6,1 ,AMD Radeon R5 M330,Windows 10,40705.92,Other
+Asus,Notebook,15.6,Full HD,Intel Celeron Dual Core N3050 1,4,500 ,Intel HD Graphics,Windows 10,19660.32,Other
+Asus,Ultrabook,13.3,Full HD,Intel Core M 6Y30 0,8,512,Intel HD Graphics 515,Windows 10,38841.12,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 7100U 2,6,1 ,Intel HD Graphics 620,Windows 10,24455.52,Other
+Acer,Notebook,15.6,Full HD,Intel Celeron Dual Core N3060 1,4,500 ,Intel HD Graphics 400,Linux,15397.92,Other
+Dell,Notebook,15.6,Full HD,Intel Celeron Dual Core N3050 1,2,500 ,Intel HD Graphics,Windows 10,20193.12,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 6700HQ 2,8,1 ,Nvidia GeForce GTX 960M,Windows 10,47898.72,Other
+HP,Notebook,15.6,Full HD,AMD A9-Series 9410 2,6,1.0 ,AMD Radeon R7 M440,Windows 10,29303.4672,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,AMD Radeon R5 M430,Linux,42943.1472,Other
+HP,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,2,32 ,Intel HD Graphics 400,Windows 10,11135.52,Other
+Asus,Notebook,15.6,Full HD,Intel Core i7 6500U 2,4,500 ,Nvidia GeForce 920M,Windows 10,38378.6496,Other
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 6500U 2,4,128,Intel HD Graphics 520,Windows 10,33992.64,SSD
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i7 6500U 2,16,512,Intel HD Graphics 520,Windows 10,79866.72,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Celeron Dual Core N3050 1,2,64 ,Intel HD Graphics,Windows 10,12201.12,Other
+HP,Notebook,15.6,Full HD,Intel Core i7 6500U 2,6,1 ,AMD Radeon R5 M330,Windows 10,40705.92,Other
+Asus,Notebook,15.6,Full HD,Intel Celeron Dual Core N3050 1,4,500 ,Intel HD Graphics,Windows 10,19660.32,Other
+Asus,Ultrabook,13.3,Full HD,Intel Core M 6Y30 0,8,512,Intel HD Graphics 515,Windows 10,38841.12,SSD
+Dell,Notebook,15.6,Full HD,Intel Core i3 7100U 2,6,1 ,Intel HD Graphics 620,Windows 10,24455.52,Other
+Acer,Notebook,15.6,Full HD,Intel Celeron Dual Core N3060 1,4,500 ,Intel HD Graphics 400,Linux,15397.92,Other
+Dell,Notebook,15.6,Full HD,Intel Celeron Dual Core N3050 1,2,500 ,Intel HD Graphics,Windows 10,20193.12,Other
+Lenovo,Notebook,15.6,Full HD,Intel Core i7 6700HQ 2,8,1 ,Nvidia GeForce GTX 960M,Windows 10,47898.72,Other
+HP,Notebook,15.6,Full HD,AMD A9-Series 9410 2,6,1.0 ,AMD Radeon R7 M440,Windows 10,29303.4672,Other
+Dell,Notebook,15.6,Full HD,Intel Core i7 7500U 2,8,1 ,AMD Radeon R5 M430,Linux,42943.1472,Other
+HP,Netbook,11.6,Full HD,Intel Celeron Dual Core N3060 1,2,32 ,Intel HD Graphics 400,Windows 10,11135.52,Other
+Asus,Notebook,15.6,Full HD,Intel Core i7 6500U 2,4,500 ,Nvidia GeForce 920M,Windows 10,38378.6496,Other
+Lenovo,2 in 1 Convertible,14.0,Full HD,Intel Core i7 6500U 2,4,128,Intel HD Graphics 520,Windows 10,33992.64,SSD
+Lenovo,2 in 1 Convertible,13.3,Full HD,Intel Core i7 6500U 2,16,512,Intel HD Graphics 520,Windows 10,79866.72,SSD
+Lenovo,Notebook,14.0,Full HD,Intel Celeron Dual Core N3050 1,2,64 ,Intel HD Graphics,Windows 10,12201.12,Other
+HP,Notebook,15.6,Full HD,Intel Core i7 6500U 2,6,1 ,AMD Radeon R5 M330,Windows 10,40705.92,Other
+Asus,Notebook,15.6,Full HD,Intel Celeron Dual Core N3050 1,4,500 ,Intel HD Graphics,Windows 10,19660.32,Other
